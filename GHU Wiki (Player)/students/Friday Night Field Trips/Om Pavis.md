@@ -10,10 +10,7 @@ titles: []
 organization: None
 status: Enrolled
 party: Friday Night Field Trips
-sessions:
-  - 2026-11-20
-adventures:
-  - SP-GA05
+adventures: []
 credits_earned: 0
 credits_spent: 0
 enrolled_date: 0576-MM-DD

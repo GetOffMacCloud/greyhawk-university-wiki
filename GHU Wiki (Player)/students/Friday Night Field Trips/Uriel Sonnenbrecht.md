@@ -12,8 +12,10 @@ status: Enrolled
 party: Friday Night Field Trips
 sessions:
   - 2026-11-06
+  - 2026-11-20
 adventures:
   - SP-GQ01
+  - SP-GA05
 credits_earned: 365
 credits_spent: 0
 enrolled_date: 0576-MM-DD
