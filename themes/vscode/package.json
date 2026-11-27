@@ -1,0 +1,25 @@
+{
+  "name": "greyhawk-university-theme",
+  "displayName": "Greyhawk University",
+  "description": "Two themes from the Free City of Greyhawk: Free City Nights (dark) and Flanaess Folio (light).",
+  "version": "0.2.0",
+  "publisher": "greyhawk-university",
+  "engines": { "vscode": "^1.70.0" },
+  "categories": ["Themes"],
+  "contributes": {
+    "themes": [
+      {
+        "id": "greyhawk-free-city-nights",
+        "label": "Greyhawk University — Free City Nights",
+        "uiTheme": "vs-dark",
+        "path": "./themes/free-city-nights.json"
+      },
+      {
+        "id": "greyhawk-flanaess-folio",
+        "label": "Greyhawk University — Flanaess Folio",
+        "uiTheme": "vs",
+        "path": "./themes/flanaess-folio.json"
+      }
+    ]
+  }
+}

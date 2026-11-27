@@ -1,0 +1,317 @@
+/* ─────────────────────────────────────────────────────────────
+   Greyhawk University — Obsidian theme
+   Dark:  Free City Nights — grey wall stone, lamplight gold,
+          Celene's aquamarine and Luna's silver.
+   Light: Flanaess Folio — parchment, sepia ink, forest green,
+          Nyr Dyv blue and oxblood border lines.
+   Matches the published wiki (quartz/styles/custom.scss) and the
+   VS Code theme in themes/vscode.
+   ───────────────────────────────────────────────────────────── */
+
+@import url("https://fonts.googleapis.com/css2?family=Cinzel:wght@500;700&family=EB+Garamond:ital,wght@0,400;0,600;1,400&family=IBM+Plex+Mono&display=swap");
+
+body {
+  --font-text-theme: "EB Garamond", Garamond, Georgia, serif;
+  --font-interface-theme: "EB Garamond", Garamond, Georgia, serif;
+  --font-monospace-theme: "IBM Plex Mono", Menlo, monospace;
+  --gh-display: "Cinzel", "Trajan Pro", Georgia, serif;
+  --font-text-size: 18px;
+  --line-height-normal: 1.65;
+  --radius-s: 2px;
+  --radius-m: 4px;
+  --radius-l: 6px;
+  --h1-weight: 700;
+  --h2-weight: 700;
+  --h3-weight: 600;
+  --h4-weight: 600;
+  --bold-weight: 600;
+}
+
+/* ── Free City Nights ─────────────────────────────────────── */
+.theme-dark {
+  --accent-h: 39;
+  --accent-s: 62%;
+  --accent-l: 56%;
+  --gh-stone: #1b1d21;
+  --gh-alley: #14161a;
+  --gh-raised: #252830;
+  --gh-border: #30343c;
+  --gh-ink: #e3d9c3;
+  --gh-muted: #a3a8b2;
+  --gh-faint: #7a818c;
+  --gh-gold: #d4a24a;
+  --gh-oxblood: #c0563f;
+  --gh-celene: #6cc4b4;
+  --gh-luna: #b3bfd6;
+  --gh-forest: #a3bd75;
+  --gh-ochre: #e08a52;
+  --gh-rose: #cf93ad;
+
+  --background-primary: var(--gh-stone);
+  --background-primary-alt: var(--gh-raised);
+  --background-secondary: var(--gh-alley);
+  --background-secondary-alt: #101215;
+  --background-modifier-border: var(--gh-border);
+  --background-modifier-hover: rgba(212, 162, 74, 0.08);
+  --background-modifier-active-hover: rgba(212, 162, 74, 0.14);
+  --text-normal: var(--gh-ink);
+  --text-muted: var(--gh-muted);
+  --text-faint: var(--gh-faint);
+  --text-accent: var(--gh-gold);
+  --text-accent-hover: #e8c76a;
+  --text-on-accent: var(--gh-stone);
+  --interactive-accent: var(--gh-gold);
+  --interactive-accent-hover: #e8c76a;
+  --text-selection: rgba(212, 162, 74, 0.25);
+  --text-highlight-bg: rgba(176, 128, 42, 0.4);
+
+  --h1-color: var(--gh-gold);
+  --h2-color: var(--gh-gold);
+  --h3-color: var(--gh-ink);
+  --h4-color: var(--gh-ink);
+  --h5-color: var(--gh-muted);
+  --h6-color: var(--gh-muted);
+  --link-color: var(--gh-celene);
+  --link-color-hover: #8fdacb;
+  --link-external-color: var(--gh-luna);
+  --link-unresolved-color: var(--gh-oxblood);
+  --tag-color: var(--gh-gold);
+  --tag-background: rgba(212, 162, 74, 0.12);
+  --tag-background-hover: rgba(212, 162, 74, 0.2);
+  --blockquote-border-color: var(--gh-gold);
+
+  --code-background: #17191d;
+  --code-normal: var(--gh-ink);
+  --code-comment: #848c98;
+  --code-keyword: var(--gh-gold);
+  --code-function: var(--gh-celene);
+  --code-string: var(--gh-forest);
+  --code-value: var(--gh-ochre);
+  --code-tag: var(--gh-oxblood);
+  --code-property: #d8c49a;
+  --code-operator: var(--gh-muted);
+  --code-punctuation: var(--gh-muted);
+  --code-important: var(--gh-rose);
+
+  --graph-node: var(--gh-muted);
+  --graph-node-focused: var(--gh-gold);
+  --graph-node-tag: var(--gh-celene);
+  --graph-node-attachment: var(--gh-forest);
+  --graph-node-unresolved: var(--gh-oxblood);
+  --graph-line: var(--gh-border);
+}
+
+/* ── Flanaess Folio ───────────────────────────────────────── */
+.theme-light {
+  --accent-h: 0;
+  --accent-s: 65%;
+  --accent-l: 33%;
+  --gh-stone: #f4ecd8;
+  --gh-alley: #ebe0c4;
+  --gh-raised: #fbf6e9;
+  --gh-border: #d6c7a1;
+  --gh-ink: #2e2418;
+  --gh-muted: #6b5a40;
+  --gh-faint: #9a8762;
+  --gh-gold: #b08a2e;
+  --gh-oxblood: #8b1e1e;
+  --gh-celene: #1f6b66;
+  --gh-luna: #36547d;
+  --gh-forest: #4c6a27;
+  --gh-ochre: #9a4a17;
+  --gh-rose: #8a3f6b;
+
+  --background-primary: var(--gh-stone);
+  --background-primary-alt: var(--gh-raised);
+  --background-secondary: var(--gh-alley);
+  --background-secondary-alt: #e2d5b5;
+  --background-modifier-border: var(--gh-border);
+  --background-modifier-hover: rgba(139, 30, 30, 0.06);
+  --background-modifier-active-hover: rgba(139, 30, 30, 0.1);
+  --text-normal: var(--gh-ink);
+  --text-muted: var(--gh-muted);
+  --text-faint: var(--gh-faint);
+  --text-accent: var(--gh-oxblood);
+  --text-accent-hover: #a83232;
+  --text-on-accent: var(--gh-stone);
+  --interactive-accent: var(--gh-oxblood);
+  --interactive-accent-hover: #a83232;
+  --text-selection: rgba(176, 138, 46, 0.25);
+  --text-highlight-bg: rgba(232, 199, 106, 0.55);
+
+  --h1-color: var(--gh-oxblood);
+  --h2-color: var(--gh-oxblood);
+  --h3-color: var(--gh-ink);
+  --h4-color: var(--gh-ink);
+  --h5-color: var(--gh-muted);
+  --h6-color: var(--gh-muted);
+  --link-color: var(--gh-celene);
+  --link-color-hover: #12504c;
+  --link-external-color: var(--gh-luna);
+  --link-unresolved-color: var(--gh-ochre);
+  --tag-color: var(--gh-oxblood);
+  --tag-background: rgba(139, 30, 30, 0.08);
+  --tag-background-hover: rgba(139, 30, 30, 0.14);
+  --blockquote-border-color: var(--gh-gold);
+
+  --code-background: #efe5cc;
+  --code-normal: var(--gh-ink);
+  --code-comment: #7a6848;
+  --code-keyword: var(--gh-oxblood);
+  --code-function: var(--gh-celene);
+  --code-string: var(--gh-forest);
+  --code-value: var(--gh-ochre);
+  --code-tag: #b3261e;
+  --code-property: #6b4a1f;
+  --code-operator: var(--gh-muted);
+  --code-punctuation: var(--gh-muted);
+  --code-important: var(--gh-rose);
+
+  --graph-node: var(--gh-muted);
+  --graph-node-focused: var(--gh-oxblood);
+  --graph-node-tag: var(--gh-celene);
+  --graph-node-attachment: var(--gh-forest);
+  --graph-node-unresolved: var(--gh-ochre);
+  --graph-line: var(--gh-border);
+}
+
+/* ── The hex map: a faint hex grid behind the sidebars ───── */
+.workspace-split.mod-left-split .workspace-leaf-content,
+.workspace-split.mod-right-split .workspace-leaf-content {
+  background-color: var(--background-secondary);
+}
+.theme-dark .workspace-split.mod-left-split .workspace-leaf-content,
+.theme-dark .workspace-split.mod-right-split .workspace-leaf-content {
+  background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='28' height='48.5' viewBox='0 0 28 48.5'%3E%3Cpath d='M14 0 L28 8.08 L28 24.25 L14 32.33 L0 24.25 L0 8.08 Z M14 32.33 L14 48.5' fill='none' stroke='%23d4a24a' stroke-opacity='0.05' stroke-width='0.8'/%3E%3C/svg%3E");
+}
+.theme-light .workspace-split.mod-left-split .workspace-leaf-content,
+.theme-light .workspace-split.mod-right-split .workspace-leaf-content {
+  background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='28' height='48.5' viewBox='0 0 28 48.5'%3E%3Cpath d='M14 0 L28 8.08 L28 24.25 L14 32.33 L0 24.25 L0 8.08 Z M14 32.33 L14 48.5' fill='none' stroke='%233d2f1f' stroke-opacity='0.07' stroke-width='0.8'/%3E%3C/svg%3E");
+}
+
+/* Candlelight wash on the page, as on the website */
+.theme-light .workspace-leaf-content[data-type="markdown"] .view-content {
+  background-image: radial-gradient(ellipse at top, rgba(176, 138, 46, 0.08), transparent 60%);
+}
+.theme-dark .workspace-leaf-content[data-type="markdown"] .view-content {
+  background-image: radial-gradient(ellipse at top, rgba(212, 162, 74, 0.06), transparent 55%);
+}
+
+/* ── Headings: carved-stone capitals ─────────────────────── */
+.inline-title,
+.markdown-rendered h1, .markdown-rendered h2, .markdown-rendered h3, .markdown-rendered h4,
+.HyperMD-header-1, .HyperMD-header-2, .HyperMD-header-3, .HyperMD-header-4,
+.nav-folder-title.mod-root, .workspace-tab-header-inner-title {
+  font-family: var(--gh-display);
+  letter-spacing: 0.03em;
+}
+.workspace-tab-header-inner-title { letter-spacing: 0.02em; font-size: 0.85em; }
+.inline-title {
+  color: var(--h1-color);
+  border-bottom: 3px double var(--gh-gold);
+  padding-bottom: 0.3em;
+}
+.markdown-rendered h1 { border-bottom: 3px double var(--gh-gold); padding-bottom: 0.3em; }
+.markdown-rendered h2 { border-bottom: 1px solid var(--background-modifier-border); padding-bottom: 0.2em; }
+
+/* ── Links: dotted ink, solid on hover ───────────────────── */
+.markdown-rendered a.internal-link,
+.cm-s-obsidian .cm-hmd-internal-link .cm-underline {
+  text-decoration: none;
+  border-bottom: 1px dotted currentColor;
+}
+.markdown-rendered a.internal-link:hover { border-bottom-style: solid; }
+
+/* ── Tags as wax seals ───────────────────────────────────── */
+.tag, .cm-hashtag {
+  font-family: var(--gh-display);
+  font-size: 0.78em;
+  letter-spacing: 0.04em;
+  border: 1px solid color-mix(in srgb, var(--tag-color) 35%, transparent);
+}
+
+/* ── Horizontal rule: ✦ ✦ ✦ ──────────────────────────────── */
+.markdown-rendered hr {
+  border: none;
+  height: auto;
+  text-align: center;
+  overflow: visible;
+}
+.markdown-rendered hr::after {
+  content: "✦ ✦ ✦";
+  color: var(--gh-gold);
+  letter-spacing: 0.6em;
+}
+
+/* ── Blockquotes as marginalia ───────────────────────────── */
+.markdown-rendered blockquote {
+  font-style: italic;
+  background: var(--background-modifier-hover);
+  border-left-width: 3px;
+  padding: 0.4em 1em;
+}
+
+/* ── Tables: ledger lines ────────────────────────────────── */
+.markdown-rendered th {
+  font-family: var(--gh-display);
+  font-size: 0.85em;
+  letter-spacing: 0.04em;
+  color: var(--text-accent);
+  border-bottom: 2px solid var(--gh-gold);
+}
+
+/* ── Wiki callouts (mirroring quartz/styles/custom.scss) ── */
+.theme-dark  { --gh-callout-oxblood: 192, 86, 63;  --gh-callout-gold: 212, 162, 74; }
+.theme-light { --gh-callout-oxblood: 139, 30, 30;  --gh-callout-gold: 176, 138, 46; }
+
+.callout[data-callout="infobox"] {
+  --callout-color: var(--gh-callout-gold);
+  --callout-icon: lucide-scroll-text;
+  background: var(--background-secondary);
+  border: 1px solid var(--gh-gold);
+  border-top: 4px solid var(--text-accent);
+  border-radius: var(--radius-m);
+  font-size: 0.92em;
+  max-width: 320px;
+}
+.markdown-preview-view .callout[data-callout="infobox"] {
+  float: right;
+  width: 300px;
+  margin: 0 0 1rem 1.5rem;
+}
+.callout[data-callout="infobox"] .callout-title { justify-content: center; font-family: var(--gh-display); color: var(--text-normal); }
+.callout[data-callout="infobox"] .callout-icon { display: none; }
+.callout[data-callout="infobox"] h6 {
+  font-family: var(--gh-display);
+  text-align: center;
+  color: var(--text-accent);
+  margin: 0.3em 0;
+}
+.callout[data-callout="infobox"] thead { display: none; }
+.callout[data-callout="infobox"] table { width: 100%; margin: 0; }
+.callout[data-callout="infobox"] td { padding: 0.2em 0.4em; }
+.callout[data-callout="infobox"] td:first-child { font-weight: 600; color: var(--text-accent); white-space: nowrap; }
+.callout[data-callout="infobox"] img { width: 100%; border-radius: var(--radius-s); }
+
+.callout[data-callout="herald"],
+.callout[data-callout="ledger"],
+.callout[data-callout="gazetteer"] {
+  --callout-color: var(--gh-callout-oxblood);
+  border: 1px solid rgba(var(--gh-callout-gold), 0.6);
+  border-radius: var(--radius-m);
+}
+.callout[data-callout="herald"] { --callout-icon: lucide-megaphone; }
+.callout[data-callout="ledger"] { --callout-icon: lucide-book-open; }
+.callout[data-callout="gazetteer"] { --callout-icon: lucide-map; }
+.callout[data-callout="herald"] .callout-title,
+.callout[data-callout="ledger"] .callout-title,
+.callout[data-callout="gazetteer"] .callout-title { font-family: var(--gh-display); letter-spacing: 0.03em; }
+
+/* ── File explorer & chrome ──────────────────────────────── */
+.nav-folder-title, .nav-file-title { font-size: 0.95em; }
+.nav-file-title.is-active, .tree-item-self.is-active {
+  background: var(--background-modifier-active-hover);
+  color: var(--text-accent);
+}
+.workspace-tab-header.is-active { box-shadow: inset 0 2px 0 var(--gh-gold); }
+.status-bar { font-family: var(--gh-display); font-size: 0.72em; letter-spacing: 0.04em; }
