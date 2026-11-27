@@ -17,7 +17,6 @@ enrolled_date: 0576-MM-DD
 tags:
   - student
   - friday-night-field-trips
-draft: true
 ---
 
 # 🎓 Uriel Sonnenbrecht
