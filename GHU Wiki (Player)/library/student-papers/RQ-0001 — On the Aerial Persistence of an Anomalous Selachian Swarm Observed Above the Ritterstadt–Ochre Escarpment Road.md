@@ -15,9 +15,6 @@ date_submitted: "5 Flocktime 576 CY"
 classification: "Open — Field Survey Report, Tier II Anomaly"
 witness_count: 6
 ---
-
-# RQ-0001 — On the Aerial Persistence of an Anomalous Selachian Swarm Observed Above the Ritterstadt–Ochre Escarpment Road
-
 **Greyhawk University · Ritterstadt Satellite Station · Field Survey Report**
 
 **Authors (alphabetical by surname, all enrolled Freshman Cohort 576 CY):** Bethany McCockin-Simmons, Bromm StoneWarden, Flora Gibson, Felix Fleetfoot, Tuldrim Hammerfall, Rowena Ithilbrook
