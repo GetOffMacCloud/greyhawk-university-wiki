@@ -19,7 +19,7 @@ const config: QuartzConfig = {
       tagId: "G-XXXXXXXXXX",
     },
     locale: "en-US",
-    baseUrl: "greyhawkuniversity.rpgsidebar.com",
+    baseUrl: "greyhawk-university.rpgsidebar.com",
     ignorePatterns: ["private", "templates", "gm-only", ".obsidian"],
     defaultDateType: "modified",
     theme: {
@@ -92,6 +92,8 @@ const config: QuartzConfig = {
       Plugin.Static(),
       Plugin.Favicon(),
       Plugin.NotFoundPage(),
+      // Writes the CNAME file so GitHub Pages keeps the custom domain
+      Plugin.CNAME(),
       // Comment out CustomOgImages to speed up build time
       Plugin.CustomOgImages(),
     ],
