@@ -54,7 +54,7 @@ export const defaultContentPageLayout: PageLayout = {
     Component.TagList(),
   ],
   left: [
-    Component.SidebarBrand(),
+    Component.DesktopOnly(Component.SidebarBrand()),
     Component.PageTitle(),
     Component.MobileOnly(Component.Spacer()),
     Component.Flex({
@@ -70,7 +70,6 @@ export const defaultContentPageLayout: PageLayout = {
     explorer(),
   ],
   right: [
-    Component.Graph(),
     Component.DesktopOnly(Component.TableOfContents()),
     Component.Backlinks(),
   ],
@@ -80,7 +79,7 @@ export const defaultContentPageLayout: PageLayout = {
 export const defaultListPageLayout: PageLayout = {
   beforeBody: [Component.Breadcrumbs(), Component.ArticleTitle(), Component.ContentMeta()],
   left: [
-    Component.SidebarBrand(),
+    Component.DesktopOnly(Component.SidebarBrand()),
     Component.PageTitle(),
     Component.MobileOnly(Component.Spacer()),
     Component.Flex({

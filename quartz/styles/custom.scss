@@ -65,3 +65,91 @@ hr::after { content: "✦ ✦ ✦"; color: var(--tertiary); letter-spacing: 0.6e
 .callout[data-callout="herald"], .callout[data-callout="ledger"], .callout[data-callout="gazetteer"] {
   .callout-icon { display: none; }
 }
+
+// ── Home page ───────────────────────────────────────────────
+// Hero banner: a faded strip of the Flanaess map behind the title.
+.callout[data-callout="hero"] {
+  --color: var(--dark);
+  --border: var(--tertiary);
+  --bg: transparent;
+  position: relative;
+  overflow: hidden;
+  border: 1px solid var(--tertiary);
+  border-top: 4px solid var(--secondary);
+  border-radius: 6px;
+  padding: 2.5rem 1.75rem 1.75rem;
+  margin: 0 0 1.5rem;
+  background:
+    linear-gradient(180deg, color-mix(in srgb, var(--light) 72%, transparent), color-mix(in srgb, var(--light) 92%, transparent)),
+    url("/static/home-banner.jpg") center 35% / cover no-repeat;
+  text-align: center;
+  .callout-icon { display: none; }
+  .callout-title {
+    justify-content: center;
+    font-family: var(--headerFont);
+    font-size: 2rem;
+    color: var(--secondary);
+    letter-spacing: 0.06em;
+    text-shadow: 0 1px 0 var(--light);
+  }
+  .callout-title-inner, .callout-title-inner p { font-size: 2.1rem; font-style: normal; margin: 0; }
+  .callout-content p { font-size: 1.15rem; font-style: italic; max-width: 36rem; margin: 0.5rem auto; }
+  .callout-content ul {
+    list-style: none;
+    padding: 0;
+    margin: 1.25rem 0 0;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    gap: 0.6rem;
+  }
+  .callout-content li { margin: 0; }
+  .callout-content li a.internal {
+    display: inline-block;
+    padding: 0.35rem 1rem;
+    border: 1px solid var(--secondary);
+    border-radius: 999px;
+    background: var(--light);
+    font-family: var(--headerFont);
+    font-size: 0.95rem;
+    font-style: normal;
+  }
+  .callout-content li a.internal:hover { background: var(--secondary); color: var(--light); }
+}
+
+// Card grid: wrap callouts in <div class="home-grid"> … </div>
+.home-grid {
+  display: grid;
+  grid-template-columns: repeat(2, minmax(0, 1fr));
+  @media all and (max-width: 640px) { grid-template-columns: 1fr; }
+  gap: 1rem;
+  margin: 1rem 0 1.5rem;
+  .callout { margin: 0; height: 100%; box-sizing: border-box; }
+  .callout-content ul { padding-left: 1.1rem; margin: 0.4rem 0; }
+  .callout-content li, .callout-content p { font-size: 1rem; line-height: 1.5; }
+}
+.callout[data-callout="marches"], .callout[data-callout="folk"], .callout[data-callout="library"] {
+  --color: var(--secondary);
+  --border: var(--tertiary);
+  --bg: var(--highlight);
+  border-radius: 4px;
+  .callout-title { font-family: var(--headerFont); }
+  .callout-icon { display: none; }
+}
+.callout[data-callout="newcomer"] {
+  --color: var(--tertiary);
+  --border: var(--tertiary);
+  --bg: transparent;
+  border: 1px dashed var(--tertiary);
+  border-radius: 4px;
+  .callout-icon { display: none; }
+  .callout-title { font-family: var(--headerFont); }
+}
+
+// ── Phone layout: keep the page column inside the side gutters ──
+// Quartz's mobile grid uses an "auto" column, which lets wide content
+// (the sidebar row, long titles) stretch it past the right gutter.
+@media all and (max-width: 800px) {
+  #quartz-body { grid-template-columns: minmax(0, 1fr); }
+  #quartz-body > * { min-width: 0; }
+}
