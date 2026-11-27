@@ -10,8 +10,7 @@ titles: []
 organization: None
 status: Enrolled
 party: Friday Night Field Trips
-sessions:
-  - 2026-11-13
+sessions: []
 adventures: []
 credits_earned: 0
 credits_spent: 0

@@ -10,7 +10,10 @@ titles: []
 organization: None
 status: Enrolled
 party: Friday Night Field Trips
-adventures: []
+sessions:
+  - 2026-11-13
+adventures:
+  - SP-GA05
 credits_earned: 0
 credits_spent: 0
 enrolled_date: 0576-MM-DD
@@ -274,13 +277,13 @@ tags:
 
 ## 📜 Expedition Log
 
-### Arc ____ — ____
-- **Date:** 
+### SP-GA05 — The Pilgrims of the Hollow Bell
+- **Date:** 2026-11-13
 - **Role in Party:** 
 - **Key Moment:** 
-- **Credits Earned:** 
-- **Major Bonus Applied?** Y / N
-- **Field Report Submitted?** Y / N — *Bonus earned:* | *Counts toward Boon 2?* Y / N
+- **Credits Earned:** Incomplete: the group didn't finish on the night. Credits are paid when the quest is finished.
+- **Major Bonus Applied?** N
+- **Field Report Submitted?** N
 - **Loadout Items Used:** 
 - **Items Lost / Penalties:** 
 

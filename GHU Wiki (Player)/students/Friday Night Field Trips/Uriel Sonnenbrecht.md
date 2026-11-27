@@ -10,8 +10,11 @@ titles: []
 organization: None
 status: Enrolled
 party: Friday Night Field Trips
-adventures: []
-credits_earned: 0
+sessions:
+  - 2026-11-06
+adventures:
+  - SP-GQ01
+credits_earned: 365
 credits_spent: 0
 enrolled_date: 0576-MM-DD
 tags:
@@ -250,8 +253,8 @@ tags:
 | Date (CY) | Arc # | Quest Name | Credits Earned | Bonus | Credits Spent | Reason Spent | Balance |
 | :--- | :--- | :--- | ---: | ---: | ---: | :--- | ---: |
 | | | *Enrollment* | — | — | — | — | 0 |
-| | | | | | | | |
-| | | **TOTAL** | | | | | |
+| Brewfest 576 | SP-GQ01 | SP-GQ01 The Gaoler's Link | 300 | 65 | — | — | 365 |
+| | | **TOTAL** | **365** | | **0** | | **365** |
 
 > [!tip] Credit Costs
 > - **Level 4 (Sophomore):** 1,000 cr total
@@ -266,15 +269,15 @@ tags:
 
 ## 📜 Expedition Log
 
-### Arc ____ — ____
-- **Date:** 
-- **Role in Party:** 
-- **Key Moment:** 
-- **Credits Earned:** 
-- **Major Bonus Applied?** Y / N
-- **Field Report Submitted?** Y / N — *Bonus earned:* | *Counts toward Boon 2?* Y / N
+### SP-GQ01 — The Gaoler's Link
+- **Date:** 2026-11-06 (Brewfest 1–5, 576 CY)
+- **Role in Party:** Front line; the cleric
+- **Key Moment:** Questioned Professor Vogelsang at his lecture with sharp questions, without ever revealing his real motive
+- **Credits Earned:** 365 (300 base, Ending A; +25 Brandmeier freed; +25 clean job; +15 roleplay beat)
+- **Major Bonus Applied?** N
+- **Field Report Submitted?** N
 - **Loadout Items Used:** 
-- **Items Lost / Penalties:** 
+- **Items Lost / Penalties:** None
 
 ---
 
@@ -284,7 +287,7 @@ tags:
 
 | Date (CY) | Arc # | What Earned It |
 | :--- | :--- | :--- |
-| | | |
+| Brewfest 576 | SP-GQ01 | Vogelsang's lecture: sharp questions without revealing his motive (+15) |
 
 ### ⚠️ Negative Marks / Probation
 

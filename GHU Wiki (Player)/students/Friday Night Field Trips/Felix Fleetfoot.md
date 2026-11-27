@@ -10,8 +10,12 @@ titles: []
 organization: None
 status: Enrolled
 party: Friday Night Field Trips
-adventures: []
-credits_earned: 0
+sessions:
+  - 2026-11-06
+adventures:
+  - "0001"
+  - SP-GQ01
+credits_earned: 925
 credits_spent: 0
 enrolled_date: 0576-MM-DD
 tags:
@@ -244,8 +248,9 @@ tags:
 | Date (CY) | Arc # | Quest Name | Credits Earned | Bonus | Credits Spent | Reason Spent | Balance |
 | :--- | :--- | :--- | ---: | ---: | ---: | :--- | ---: |
 | | | *Enrollment* | — | — | — | — | 0 |
-| | | | | | | | |
-| | | **TOTAL** | | | | | |
+| Planting 576 | GHU-0001 | [[expeditions/job-board/0001 - The Rust-Red Extraction\|GHU-0001 The Rust-Red Extraction]] | 600 | — | — | — | 600 |
+| Brewfest 576 | SP-GQ01 | SP-GQ01 The Gaoler's Link | 300 | 25 | — | — | 925 |
+| | | **TOTAL** | **925** | | **0** | | **925** |
 
 > [!tip] Credit Costs
 > - **Level 4 (Sophomore):** 1,000 cr total
@@ -260,11 +265,21 @@ tags:
 
 ## 📜 Expedition Log
 
-### Arc ____ — ____
-- **Date:** 
-- **Role in Party:** 
-- **Key Moment:** 
-- **Credits Earned:** 
+### SP-GQ01 — The Gaoler's Link
+- **Date:** 2026-11-06 (Brewfest 1–5, 576 CY)
+- **Role in Party:** Rogue; the Registrar team
+- **Key Moment:** Worked the Registrar's counting-room with Elric, looking for the stacks key while Elric kept her busy
+- **Credits Earned:** 325 (300 base, Ending A; +25 Brandmeier freed)
+- **Major Bonus Applied?** N
+- **Field Report Submitted?** N
+- **Loadout Items Used:** 
+- **Items Lost / Penalties:** —
+
+### Arc 0001 — [[expeditions/job-board/0001 - The Rust-Red Extraction|GHU-0001 The Rust-Red Extraction]]
+- **Date:** 2026-05-26 (10–15 Planting, 576 CY), with the Ritterstadt Questers
+- **Role in Party:** Scout
+- **Key Moment:** Spotted the sharks first; opened a chest that turned out to be a mimic, then helped kill it with Sneak Attack
+- **Credits Earned:** 600
 - **Major Bonus Applied?** Y / N
 - **Field Report Submitted?** Y / N — *Bonus earned:* | *Counts toward Boon 2?* Y / N
 - **Loadout Items Used:** 

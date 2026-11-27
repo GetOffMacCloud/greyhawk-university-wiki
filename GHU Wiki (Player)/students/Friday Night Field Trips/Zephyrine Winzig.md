@@ -14,8 +14,9 @@ sessions:
   - 2026-11-06
   - 2026-11-20
 adventures:
-  - SP-SQ-01
-credits_earned: 50
+  - SP-GQ01
+  - SP-GA05
+credits_earned: 350
 credits_spent: 0
 enrolled_date: 0576-MM-DD
 tags:
@@ -262,8 +263,8 @@ tags:
 | Date (CY) | Arc # | Quest Name | Credits Earned | Bonus | Credits Spent | Reason Spent | Balance |
 | :--- | :--- | :--- | ---: | ---: | ---: | :--- | ---: |
 | | | *Enrollment* | — | — | — | — | 0 |
-| Brewfest 576 | SP-SQ-01 | SP-SQ-01 The Gaoler's Link | 40 | 10 | — | — | 50 |
-| | | **TOTAL** | **50** | | **0** | | **50** |
+| Brewfest 576 | SP-GQ01 | SP-GQ01 The Gaoler's Link | 300 | 50 | — | — | 350 |
+| | | **TOTAL** | **350** | | **0** | | **350** |
 
 > [!tip] Credit Costs
 > - **Level 4 (Sophomore):** 1,000 cr total
@@ -278,11 +279,11 @@ tags:
 
 ## 📜 Expedition Log
 
-### SP-SQ-01 — The Gaoler's Link
+### SP-GQ01 — The Gaoler's Link
 - **Date:** 2026-11-06 (Brewfest 1–5, 576 CY)
 - **Role in Party:** Rogue; the Archive team
 - **Key Moment:** Studied in the Archive with Sybil and Morana while the party cased the job
-- **Credits Earned:** 50 (40 base, Ending A; +5 Brandmeier freed; +5 clean job)
+- **Credits Earned:** 350 (300 base, Ending A; +25 Brandmeier freed; +25 clean job)
 - **Major Bonus Applied?** N
 - **Field Report Submitted?** N
 - **Loadout Items Used:** 

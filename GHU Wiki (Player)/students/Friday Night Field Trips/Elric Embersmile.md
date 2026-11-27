@@ -10,8 +10,13 @@ titles: []
 organization: None
 status: Enrolled
 party: Friday Night Field Trips
-adventures: []
-credits_earned: 0
+sessions:
+  - 2026-11-06
+  - 2026-11-13
+adventures:
+  - SP-GQ01
+  - SP-GA05
+credits_earned: 365
 credits_spent: 0
 enrolled_date: 0576-MM-DD
 tags:
@@ -243,8 +248,8 @@ tags:
 | Date (CY) | Arc # | Quest Name | Credits Earned | Bonus | Credits Spent | Reason Spent | Balance |
 | :--- | :--- | :--- | ---: | ---: | ---: | :--- | ---: |
 | | | *Enrollment* | — | — | — | — | 0 |
-| | | | | | | | |
-| | | **TOTAL** | | | | | |
+| Brewfest 576 | SP-GQ01 | SP-GQ01 The Gaoler's Link | 300 | 65 | — | — | 365 |
+| | | **TOTAL** | **365** | | **0** | | **365** |
 
 > [!tip] Credit Costs
 > - **Level 4 (Sophomore):** 1,000 cr total
@@ -259,15 +264,25 @@ tags:
 
 ## 📜 Expedition Log
 
-### Arc ____ — ____
-- **Date:** 
+### SP-GA05 — The Pilgrims of the Hollow Bell
+- **Date:** 2026-11-13
 - **Role in Party:** 
 - **Key Moment:** 
-- **Credits Earned:** 
-- **Major Bonus Applied?** Y / N
-- **Field Report Submitted?** Y / N — *Bonus earned:* | *Counts toward Boon 2?* Y / N
+- **Credits Earned:** Incomplete: the group didn't finish on the night. Credits are paid when the quest is finished.
+- **Major Bonus Applied?** N
+- **Field Report Submitted?** N
 - **Loadout Items Used:** 
 - **Items Lost / Penalties:** 
+
+### SP-GQ01 — The Gaoler's Link
+- **Date:** 2026-11-06 (Brewfest 1–5, 576 CY)
+- **Role in Party:** Front line; the distraction
+- **Key Moment:** Ran two distractions: the Registrar, so Felix could look for the key; and the curious guards, so the party could slip into the sealed stacks
+- **Credits Earned:** 365 (300 base, Ending A; +25 Brandmeier freed; +25 clean job; +15 roleplay beat)
+- **Major Bonus Applied?** N
+- **Field Report Submitted?** N
+- **Loadout Items Used:** 
+- **Items Lost / Penalties:** None
 
 ---
 
@@ -277,7 +292,7 @@ tags:
 
 | Date (CY) | Arc # | What Earned It |
 | :--- | :--- | :--- |
-| | | |
+| Brewfest 576 | SP-GQ01 | Two well-run distractions: the Registrar, and the guards at the Archive (+15) |
 
 ### ⚠️ Negative Marks / Probation
 
