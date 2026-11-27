@@ -51,13 +51,6 @@ He was the nearest enrolled student, in **Traft** on his family's business, when
 ### Background
 *Noble: Position of Privilege.* People assume Ivan has the right to be wherever he is. Common folk try to accommodate him; other nobles treat him as one of their own.
 
-| | |
-| :--- | :--- |
-| **Personality** | Despite my noble birth, I do not place myself above other folk. We all have the same blood. |
-| **Ideal** | Independence. I must prove that I can handle myself without the coddling of my family. *(Chaotic)* |
-| **Bond** | My loyalty to my sovereign is unwavering. |
-| **Flaw** | I have an insatiable desire for decadent pleasures. |
-
 *No backstory has been written yet. Who is the sovereign? What did the Fiend offer a Traft noble's son, and what did he pay? Fill this in after the first session.*
 
 ### Appearance
