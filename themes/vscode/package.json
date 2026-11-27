@@ -4,8 +4,12 @@
   "description": "Two themes from the Free City of Greyhawk: Free City Nights (dark) and Flanaess Folio (light).",
   "version": "0.2.0",
   "publisher": "greyhawk-university",
-  "engines": { "vscode": "^1.70.0" },
-  "categories": ["Themes"],
+  "engines": {
+    "vscode": "^1.70.0"
+  },
+  "categories": [
+    "Themes"
+  ],
   "contributes": {
     "themes": [
       {

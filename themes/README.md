@@ -2,10 +2,10 @@
 
 Editor themes that match the published wiki's palette (`quartz.config.ts`, `quartz/styles/custom.scss`).
 
-| Mode | Name | Inspiration |
-| --- | --- | --- |
-| Dark | **Free City Nights** | Greyhawk's grey stone walls after dark, lamplight gold, Celene's aquamarine and Luna's silver, the blood red of Iuz for errors |
-| Light | **Flanaess Folio** | The 1980 folio map: parchment, sepia ink, forest green, Nyr Dyv blue, ochre hills, oxblood border lines |
+| Mode  | Name                 | Inspiration                                                                                                                    |
+| ----- | -------------------- | ------------------------------------------------------------------------------------------------------------------------------ |
+| Dark  | **Free City Nights** | Greyhawk's grey stone walls after dark, lamplight gold, Celene's aquamarine and Luna's silver, the blood red of Iuz for errors |
+| Light | **Flanaess Folio**   | The 1980 folio map: parchment, sepia ink, forest green, Nyr Dyv blue, ochre hills, oxblood border lines                        |
 
 Syntax colors: keywords are gold (oxblood in light mode), functions Celene, types Luna, strings forest green, numbers Cairn Hills ochre, tags Iuz red.
 
