@@ -13,10 +13,9 @@ const config: QuartzConfig = {
     enableSPA: true,
     enablePopovers: true,
     // Same Google Analytics property as rpgsidebar.com, so wiki traffic counts with the main site.
-    // Replace G-XXXXXXXXXX with the measurement ID from rpgsidebar.com.
     analytics: {
       provider: "google",
-      tagId: "G-XXXXXXXXXX",
+      tagId: "G-3E6FMXVMSV",
     },
     locale: "en-US",
     baseUrl: "greyhawk-university.rpgsidebar.com",
