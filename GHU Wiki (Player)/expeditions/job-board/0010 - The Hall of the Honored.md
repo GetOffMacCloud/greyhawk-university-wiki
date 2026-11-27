@@ -57,4 +57,3 @@ draft: true
 
 > [!tip]- 🖼️ The notice as pinned
 > ![[0010-handout-field-posting.png|480]]
-> *Print-ready PDF: `0010-handout-field-posting.pdf` in the 0010 `images/` folder.*

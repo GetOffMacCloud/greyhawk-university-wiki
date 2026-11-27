@@ -55,7 +55,4 @@ draft: true
 > [!tldr] Notes from Past Expeditions
 > *(Leave blank until a party completes this session.)*
 
-> [!tip]- 🖼️ The notice as pinned
-> ![[0012-handout-field-posting.png|480]]
-> *Print-ready PDF: `0012-handout-field-posting.pdf` in the 0012 `images/` folder (to make).*
 
