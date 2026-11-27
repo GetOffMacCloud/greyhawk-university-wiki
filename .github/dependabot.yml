@@ -7,6 +7,12 @@ updates:
     ignore:
       - dependency-name: "*"
         update-types: ["version-update:semver-major"]
+      # Pre-1.0 packages: a minor bump can break things. satori 0.63 drops
+      # the footer from link-preview images.
+      - dependency-name: "satori"
+        update-types: ["version-update:semver-minor"]
+      - dependency-name: "@myriaddreamin/rehype-typst"
+        update-types: ["version-update:semver-minor"]
     groups:
       production-dependencies:
         applies-to: "version-updates"
