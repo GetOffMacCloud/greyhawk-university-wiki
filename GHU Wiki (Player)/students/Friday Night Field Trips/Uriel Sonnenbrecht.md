@@ -16,7 +16,7 @@ sessions:
 adventures:
   - SP-GQ01
   - SP-GA05
-credits_earned: 365
+credits_earned: 590
 credits_spent: 0
 enrolled_date: 0576-MM-DD
 tags:
@@ -256,7 +256,8 @@ tags:
 | :--- | :--- | :--- | ---: | ---: | ---: | :--- | ---: |
 | | | *Enrollment* | — | — | — | — | 0 |
 | Brewfest 576 | SP-GQ01 | SP-GQ01 The Gaoler's Link | 300 | 65 | — | — | 365 |
-| | | **TOTAL** | **365** | | **0** | | **365** |
+| Patchwall 576 | SP-GA05 | SP-GA05 The Pilgrims of the Hollow Bell (Hollen Ford and the orc camp) | 225 | — | — | — | 590 |
+| | | **TOTAL** | **590** | | **0** | | **590** |
 
 > [!tip] Credit Costs
 > - **Level 4 (Sophomore):** 1,000 cr total
@@ -270,6 +271,16 @@ tags:
 ---
 
 ## 📜 Expedition Log
+
+### SP-GA05 — The Pilgrims of the Hollow Bell
+- **Date:** 2026-11-20 (Patchwall 576 CY)
+- **Role in Party:** 
+- **Key Moment:** 
+- **Credits Earned:** 225 (75% partial credit: Hollen Ford cleared and Grukka's band won, but the bell was lost)
+- **Major Bonus Applied?** N
+- **Field Report Submitted?** N
+- **Loadout Items Used:** 
+- **Items Lost / Penalties:** None
 
 ### SP-GQ01 — The Gaoler's Link
 - **Date:** 2026-11-06 (Brewfest 1–5, 576 CY)

@@ -14,7 +14,7 @@ sessions:
   - 2026-11-20
 adventures:
   - SP-GA05
-credits_earned: 0
+credits_earned: 225
 credits_spent: 0
 enrolled_date: 0576-MM-DD
 tags:
@@ -261,8 +261,8 @@ tags:
 | Date (CY) | Arc # | Quest Name | Credits Earned | Bonus | Credits Spent | Reason Spent | Balance |
 | :--- | :--- | :--- | ---: | ---: | ---: | :--- | ---: |
 | | | *Enrollment* | — | — | — | — | 0 |
-| | | | | | | | |
-| | | **TOTAL** | | | | | |
+| Patchwall 576 | SP-GA05 | SP-GA05 The Pilgrims of the Hollow Bell (Hollen Ford and the orc camp) | 225 | — | — | — | 225 |
+| | | **TOTAL** | **225** | | **0** | | **225** |
 
 > [!tip] Credit Costs
 > - **Level 4 (Sophomore):** 1,000 cr total
@@ -277,15 +277,15 @@ tags:
 
 ## 📜 Expedition Log
 
-### Arc ____ — ____
-- **Date:** 
+### SP-GA05 — The Pilgrims of the Hollow Bell
+- **Date:** 2026-11-20 (Patchwall 576 CY)
 - **Role in Party:** 
 - **Key Moment:** 
-- **Credits Earned:** 
-- **Major Bonus Applied?** Y / N
-- **Field Report Submitted?** Y / N — *Bonus earned:* | *Counts toward Boon 2?* Y / N
+- **Credits Earned:** 225 (75% partial credit: Hollen Ford cleared and Grukka's band won, but the bell was lost)
+- **Major Bonus Applied?** N
+- **Field Report Submitted?** N
 - **Loadout Items Used:** 
-- **Items Lost / Penalties:** 
+- **Items Lost / Penalties:** None
 
 ---
 

@@ -14,7 +14,7 @@ sessions:
   - 2026-11-13
 adventures:
   - SP-GA05
-credits_earned: 0
+credits_earned: 90
 credits_spent: 0
 enrolled_date: 0576-MM-DD
 tags:
@@ -261,8 +261,8 @@ tags:
 | Date (CY) | Arc # | Quest Name | Credits Earned | Bonus | Credits Spent | Reason Spent | Balance |
 | :--- | :--- | :--- | ---: | ---: | ---: | :--- | ---: |
 | | | *Enrollment* | — | — | — | — | 0 |
-| | | | | | | | |
-| | | **TOTAL** | | | | | |
+| Patchwall 576 | SP-GA05 | SP-GA05 The Pilgrims of the Hollow Bell (Kalbach) | 75 | 15 | — | — | 90 |
+| | | **TOTAL** | **90** | | **0** | | **90** |
 
 > [!tip] Credit Costs
 > - **Level 4 (Sophomore):** 1,000 cr total
@@ -278,14 +278,14 @@ tags:
 ## 📜 Expedition Log
 
 ### SP-GA05 — The Pilgrims of the Hollow Bell
-- **Date:** 2026-11-13
+- **Date:** 2026-11-13 (Patchwall 576 CY)
 - **Role in Party:** 
 - **Key Moment:** 
-- **Credits Earned:** Incomplete: the group didn't finish on the night. Credits are paid when the quest is finished.
+- **Credits Earned:** 90 (75: 25% partial credit, the team stopped after Kalbach and another team finished the quest; +15 roleplay beat)
 - **Major Bonus Applied?** N
 - **Field Report Submitted?** N
 - **Loadout Items Used:** 
-- **Items Lost / Penalties:** 
+- **Items Lost / Penalties:** None
 
 ---
 
@@ -295,7 +295,7 @@ tags:
 
 | Date (CY) | Arc # | What Earned It |
 | :--- | :--- | :--- |
-| | | |
+| Patchwall 576 | SP-GA05 | Standout roleplay on the Kalbach expedition (+15) |
 
 ### ⚠️ Negative Marks / Probation
 

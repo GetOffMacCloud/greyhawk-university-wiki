@@ -16,7 +16,7 @@ sessions:
 adventures:
   - SP-GQ01
   - SP-GA05
-credits_earned: 365
+credits_earned: 455
 credits_spent: 0
 enrolled_date: 0576-MM-DD
 tags:
@@ -249,7 +249,8 @@ tags:
 | :--- | :--- | :--- | ---: | ---: | ---: | :--- | ---: |
 | | | *Enrollment* | — | — | — | — | 0 |
 | Brewfest 576 | SP-GQ01 | SP-GQ01 The Gaoler's Link | 300 | 65 | — | — | 365 |
-| | | **TOTAL** | **365** | | **0** | | **365** |
+| Patchwall 576 | SP-GA05 | SP-GA05 The Pilgrims of the Hollow Bell (Kalbach) | 75 | 15 | — | — | 455 |
+| | | **TOTAL** | **455** | | **0** | | **455** |
 
 > [!tip] Credit Costs
 > - **Level 4 (Sophomore):** 1,000 cr total
@@ -265,14 +266,14 @@ tags:
 ## 📜 Expedition Log
 
 ### SP-GA05 — The Pilgrims of the Hollow Bell
-- **Date:** 2026-11-13
+- **Date:** 2026-11-13 (Patchwall 576 CY)
 - **Role in Party:** 
-- **Key Moment:** 
-- **Credits Earned:** Incomplete: the group didn't finish on the night. Credits are paid when the quest is finished.
+- **Key Moment:** Shored up Kalbach's defences before the dead rose
+- **Credits Earned:** 90 (75: 25% partial credit, the team stopped after Kalbach and another team finished the quest; +15 roleplay beat)
 - **Major Bonus Applied?** N
 - **Field Report Submitted?** N
 - **Loadout Items Used:** 
-- **Items Lost / Penalties:** 
+- **Items Lost / Penalties:** None
 
 ### SP-GQ01 — The Gaoler's Link
 - **Date:** 2026-11-06 (Brewfest 1–5, 576 CY)
@@ -293,6 +294,7 @@ tags:
 | Date (CY) | Arc # | What Earned It |
 | :--- | :--- | :--- |
 | Brewfest 576 | SP-GQ01 | Two well-run distractions: the Registrar, and the guards at the Archive (+15) |
+| Patchwall 576 | SP-GA05 | Shored up Kalbach's defences before the dead rose (+15) |
 
 ### ⚠️ Negative Marks / Probation
 

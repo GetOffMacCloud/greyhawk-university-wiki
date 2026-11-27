@@ -14,7 +14,7 @@ sessions:
   - 2026-11-13
 adventures:
   - SP-GA05
-credits_earned: 0
+credits_earned: 75
 credits_spent: 0
 enrolled_date: 0576-MM-DD
 tags:
@@ -277,8 +277,8 @@ tags:
 | Date (CY) | Arc # | Quest Name | Credits Earned | Bonus | Credits Spent | Reason Spent | Balance |
 | :--- | :--- | :--- | ---: | ---: | ---: | :--- | ---: |
 | | | *Enrollment* | — | — | — | — | 0 |
-| | | | | | | | |
-| | | **TOTAL** | | | | | |
+| Patchwall 576 | SP-GA05 | SP-GA05 The Pilgrims of the Hollow Bell (Kalbach) | 75 | — | — | — | 75 |
+| | | **TOTAL** | **75** | | **0** | | **75** |
 
 > [!tip] Credit Costs
 > - **Level 4 (Sophomore):** 1,000 cr total
@@ -294,14 +294,14 @@ tags:
 ## 📜 Expedition Log
 
 ### SP-GA05 — The Pilgrims of the Hollow Bell
-- **Date:** 2026-11-13
+- **Date:** 2026-11-13 (Patchwall 576 CY)
 - **Role in Party:** 
 - **Key Moment:** 
-- **Credits Earned:** Incomplete: the group didn't finish on the night. Credits are paid when the quest is finished.
+- **Credits Earned:** 75 (25% partial credit: the team stopped after Kalbach, and another team finished the quest)
 - **Major Bonus Applied?** N
 - **Field Report Submitted?** N
 - **Loadout Items Used:** 
-- **Items Lost / Penalties:** 
+- **Items Lost / Penalties:** None
 
 ---
 
