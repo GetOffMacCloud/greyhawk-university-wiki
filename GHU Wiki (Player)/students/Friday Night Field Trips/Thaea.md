@@ -20,7 +20,6 @@ tags:
   - student
   - friday-night-field-trips
   - one-shot
-draft: true
 ---
 
 # 🎓 Thaea
@@ -53,12 +52,6 @@ draft: true
 *(Player to supply: where Thaea drifted in from, why the blade-song, and why an astral elf ended up enrolled at Greyhawk University and posted to Ritterstadt.)*
 
 *On record: female, 450 years, 5'8", 145 lb. Tan skin, gold eyes, dark blue hair.*
-
-### Personality
-- **Personality Trait:** —
-- **Ideal:** —
-- **Bond:** —
-- **Flaw:** —
 
 ### Research Focus
 *To be determined — what question or goal drives her academic work at Greyhawk University?*

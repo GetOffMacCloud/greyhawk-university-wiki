@@ -20,7 +20,6 @@ tags:
   - student
   - friday-night-field-trips
   - one-shot
-draft: true
 ---
 
 # 🎓 Vaelin Saelanth
@@ -53,12 +52,6 @@ draft: true
 *While the deeper enclaves argued about pulling back behind their wards, Vaelin reasoned it out: burning out a necromantic infestation takes muscle to hold a line, divine magic to repel darkness, and arcane minds to undo curses — and he had none of it. Isolation wasn't noble; it was a decision that would get him killed. So he came to Ritterstadt, where the frontier draws mercenary companies and sellswords, to watch the teams forming at the gates and taverns and offer himself as forward scout to anyone competent enough to keep themselves alive.*
 
 *On record: male, 159 years, 5'9", 131 lb. Tanned skin, hazel eyes, coppery red hair.*
-
-### Personality
-- **Personality Trait:** I watch over my friends as if they were a litter of newborn pups. I'm always picking things up, absently fiddling with them… *(truncated on export)*
-- **Ideal:** Change. Life is like the seasons, in constant change, and we must change with it. *(Chaotic)*
-- **Bond:** An injury to the unspoiled wilderness of my home is an injury to me.
-- **Flaw:** I am slow to trust members of other races, tribes, and societies. (He won't necessarily be rude to them but he… *(truncated on export)*)
 
 ### Research Focus
 *To be determined — what question or goal drives his academic work at Greyhawk University? (The undead rising out of the Vesve burial mounds is an obvious thread.)*

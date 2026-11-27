@@ -20,7 +20,6 @@ tags:
   - student
   - friday-night-field-trips
   - one-shot
-draft: true
 ---
 
 # 🎓 Aeliana
@@ -51,12 +50,6 @@ draft: true
 *Acolyte — backstory not yet submitted. On record: white hair, freckles, and glowing golden eyes.*
 
 *(Player to supply: which temple raised her, which god she serves, and why an aasimar acolyte ended up enrolled at Greyhawk University and posted to Ritterstadt.)*
-
-### Personality
-- **Personality Trait:** —
-- **Ideal:** —
-- **Bond:** —
-- **Flaw:** —
 
 ### Research Focus
 *To be determined — what question or goal drives her academic work at Greyhawk University?*

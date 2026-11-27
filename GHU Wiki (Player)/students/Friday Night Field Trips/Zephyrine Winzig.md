@@ -22,7 +22,6 @@ tags:
   - student
   - friday-night-field-trips
   - one-shot
-draft: true
 ---
 
 # 🎓 Zephyrine Winzig
@@ -55,12 +54,6 @@ draft: true
 *Always itching for a new adventure or skill, she doesn't sit still for long. A treasure to swipe or a shiny trinket to pocket is paramount to her — wherever the loot is, she follows.*
 
 *On record: female, Small, 2'5", 20 lb. Long cobalt-blue hair, braided and woven with small non-magical trinkets and charms. A scar runs from her right temple to near her jaw. Large silver-gray eyes, pale skin. Wears muted greys, blacks, and browns to aid her sneaking.*
-
-### Personality
-- **Personality Trait:** The best way to get me to do something is to tell me I can't do it.
-- **Ideal:** Freedom. Chains are meant to be broken, as are those who would forge them. *(Chaotic)*
-- **Bond:** Something important was taken from me, and I aim to steal it back.
-- **Flaw:** When I see something valuable, I can't think about anything but how to steal it.
 
 ### Research Focus
 *To be determined — what question or goal drives her academic work at Greyhawk University?*

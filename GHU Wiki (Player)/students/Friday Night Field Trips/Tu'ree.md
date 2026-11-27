@@ -20,7 +20,6 @@ tags:
   - student
   - friday-night-field-trips
   - one-shot
-draft: true
 ---
 
 # 🎓 Tu'ree
@@ -51,12 +50,6 @@ draft: true
 *Far Traveler — an eladrin far from home, finding everything strange and wonderful. Backstory not yet submitted.*
 
 *On record: female, 150 years, 6'0", 130 lb. Skin and hair change with the season; eyes sparkle.*
-
-### Personality
-- **Personality Trait:** —
-- **Ideal:** Adventure. I'm far from home, and everything is strange and wonderful! *(Chaotic)*
-- **Bond:** The gods of my people are a comfort to me so far from home.
-- **Flaw:** I have a weakness for the new intoxicants and other pleasures of this land.
 
 ### Research Focus
 *To be determined — what question or goal drives her academic work at Greyhawk University?*

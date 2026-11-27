@@ -19,7 +19,6 @@ tags:
   - student
   - ritterstadt
   - west-marches
-draft: true
 ---
 
 # 🎓 Ivan Lennon

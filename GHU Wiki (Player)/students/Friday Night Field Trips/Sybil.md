@@ -21,7 +21,6 @@ tags:
   - student
   - friday-night-field-trips
   - one-shot
-draft: true
 ---
 
 # 🎓 Sybil
@@ -54,12 +53,6 @@ draft: true
 *But Sybil noticed a pattern of loss. Fellow thieves who shaped their fates in darkness met grim ends, and she formed a close and strange relationship with death — an ever-present companion. After the sudden death of her mentor, Sybil set out to explore the vast and varied… (truncated on export)*
 
 *On record: female, 25, Small, 4'. Yellow fur with markings, golden eyes.*
-
-### Personality
-- **Personality Trait:** Once she has claimed you as a friend she will do anything to protect you. But if you have no allegiance to her, good luck?
-- **Ideal:** Suspicious. I must be careful, for I have no way of telling friend from foe here. *(Any)*
-- **Bond:** My freedom is my most precious possession. I'll never let anyone take it from me again.
-- **Flaw:** I pretend not to understand the local language in order to avoid interactions I would rather not have.
 
 ### Research Focus
 *To be determined — what question or goal drives her academic work at Greyhawk University? (Her "strange relationship with death" fits the Phantom well.)*

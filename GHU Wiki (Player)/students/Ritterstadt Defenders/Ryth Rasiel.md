@@ -17,7 +17,6 @@ tags:
   - student
   - ritterstadt
   - west-marches
-draft: true
 ---
 
 # 🎓 Ryth Rasiel
@@ -49,12 +48,6 @@ draft: true
 *He fought in the gladiatorial bouts his clan used to demonstrate dueling, recruit, and court sponsors, and showboating was fun — but he craved more. Reflecting on what was missing, he realized he didn't just want to win battles; he wanted witnesses, tales, legends carried not by guards and guild-masters or even kings, but by the world. He left his post — not dishonorably, but not silently either — to chase adventure and the fame of a renowned hero, wherever the wind takes him.*
 
 *On record: Medium, 5'7", 90 lb.*
-
-### Personality
-- **Personality Trait:** —
-- **Ideal:** —
-- **Bond:** —
-- **Flaw:** —
 
 ### Research Focus
 *To be determined — what question or goal drives his academic work at Greyhawk University?*

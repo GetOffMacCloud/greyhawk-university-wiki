@@ -17,7 +17,6 @@ tags:
   - student
   - ritterstadt
   - west-marches
-draft: true
 ---
 
 # 🎓 Vult Nook
@@ -51,12 +50,6 @@ draft: true
 *(Original backstory is Eberron-specific; see Import Review.)*
 
 *On record: male, bald. Name: "Vult" for December; "Nook" for the book nook he was named in, reading on a cold winter's day.*
-
-### Personality
-- **Personality Trait:** —
-- **Ideal:** —
-- **Bond:** —
-- **Flaw:** —
 
 ### Research Focus
 *To be determined — what question or goal drives his academic work at Greyhawk University? (Recovering lost knowledge is built into the backstory.)*

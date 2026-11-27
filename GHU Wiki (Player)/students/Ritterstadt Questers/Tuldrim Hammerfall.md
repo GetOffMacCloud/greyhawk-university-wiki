@@ -21,7 +21,6 @@ tags:
   - student
   - ritterstadt
   - west-marches
-draft: true
 ---
 
 # 🎓 Tuldrim Hammerfall

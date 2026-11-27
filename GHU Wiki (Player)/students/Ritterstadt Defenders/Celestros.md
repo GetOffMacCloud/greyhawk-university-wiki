@@ -17,7 +17,6 @@ tags:
   - student
   - ritterstadt
   - west-marches
-draft: true
 ---
 
 # 🎓 Celestros
@@ -47,12 +46,6 @@ draft: true
 *Astral Drifter — backstory not yet submitted.*
 
 *(Player to supply: who Celestros is, where the wild magic came from, and why an Astral Drifter ended up enrolled at Greyhawk University and posted to Ritterstadt.)*
-
-### Personality
-- **Personality Trait:** —
-- **Ideal:** —
-- **Bond:** —
-- **Flaw:** —
 
 ### Research Focus
 *To be determined — what question or goal drives Celestros's academic work at Greyhawk University?*

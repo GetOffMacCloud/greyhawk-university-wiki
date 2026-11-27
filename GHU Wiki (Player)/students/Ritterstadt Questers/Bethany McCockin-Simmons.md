@@ -23,7 +23,6 @@ tags:
   - student
   - ritterstadt
   - west-marches
-draft: true
 ---
 
 # 🎓 Bethany McCockin-Simmons

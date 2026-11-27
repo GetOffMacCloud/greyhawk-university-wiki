@@ -17,7 +17,6 @@ tags:
   - student
   - ritterstadt
   - west-marches
-draft: true
 ---
 
 # 🎓 Peni Wildwarrior Nulakaga
@@ -47,12 +46,6 @@ draft: true
 *Folk Hero — backstory not yet submitted.*
 
 *(Player to supply: Peni's defining event, home clan, and why a goliath folk hero ended up enrolled at Greyhawk University and posted to Ritterstadt.)*
-
-### Personality
-- **Personality Trait:** —
-- **Ideal:** —
-- **Bond:** —
-- **Flaw:** —
 
 ### Research Focus
 *To be determined — what question or goal drives Peni's academic work at Greyhawk University?*

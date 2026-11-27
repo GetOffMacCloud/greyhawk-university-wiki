@@ -22,7 +22,6 @@ tags:
   - student
   - ritterstadt
   - west-marches
-draft: true
 ---
 
 # 🎓 Celenin of the Phostwood
@@ -54,12 +53,6 @@ draft: true
 *Courtier — Celenin moves easily among the powerful. He knows how to address a lord, navigate a bureaucracy, and read the currents of a crowded hall. Half-elven and raised near the Phostwood, he carries himself with a diplomat's grace and a soldier's discipline in equal measure — a rider and a retainer as comfortable in the saddle as at court.*
 
 *No backstory has been written yet. What brought Celenin to Greyhawk University? Whom does he serve, and what does he seek in the Sepia Uplands? Fill this in after your first session.*
-
-### Personality
-- **Personality Trait:** *(To be filled by player)*
-- **Ideal:** *(To be filled by player)*
-- **Bond:** *(To be filled by player)*
-- **Flaw:** *(To be filled by player)*
 
 ### Research Focus
 During his first adventure, Celenin found a Dire Wolf pup. He has tamed it and it is now his ally. The end goal is that he would like to train the pup to grow up and eventually become his mount once its full grown.

@@ -17,7 +17,6 @@ tags:
   - student
   - ritterstadt
   - west-marches
-draft: true
 ---
 
 # 🎓 Monscor Dumathier
@@ -49,12 +48,6 @@ draft: true
 *(Original names the Galena Mountains and Ironspur mine — see Import Review.)*
 
 *On record: male, 80 years, 4'0", 155 lb. Tan skin, hazel eyes, grey/silver hair.*
-
-### Personality
-- **Personality Trait:** I am tolerant (or intolerant) of other faiths and respect (or condemn) the worship of other gods.
-- **Ideal:** Aspiration. I seek to prove myself worthy of my god's favor by matching my actions against his teachings.
-- **Bond:** I would die to recover an ancient relic of my faith that was lost long ago.
-- **Flaw:** I judge others harshly, and myself even more severely.
 
 ### Research Focus
 *To be determined — what question or goal drives his academic work at Greyhawk University? (The lost relic and the gate behind it are ready-made threads.)*

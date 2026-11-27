@@ -21,7 +21,6 @@ tags:
   - student
   - ritterstadt
   - west-marches
-draft: true
 ---
 
 # 🎓 Fennel Bramblewick
@@ -50,12 +49,6 @@ draft: true
 *Outlander — Fennel emerged from the Underdark into a world that moves too slowly and keeps too many things nailed down. He comes from unspoiled underground wilderness that few surface-dwellers will ever see, and fewer still would survive. The natural world — above or below — is sacred to him in a way that paved roads and stone walls can never be.*
 
 *He cannot stop touching things. He picks them up, turns them over, studies them, fiddles with them — and sometimes, regrettably, breaks them. He means no harm. He is simply a creature of intense curiosity living at slightly the wrong speed for delicate objects.*
-
-### Personality
-- **Personality Trait:** Always picking things up, absently fiddling with them, and sometimes accidentally breaking them.
-- **Ideal:** Nature. The natural world is more important than all the constructs of civilization. *(Neutral)*
-- **Bond:** An injury to the unspoiled wilderness of his home is an injury to him.
-- **Flaw:** There's no room for caution in a life lived to the fullest.
 
 ### Research Focus
 *To be determined — what question or goal drives his academic work at Greyhawk University?*

@@ -21,7 +21,6 @@ tags:
   - student
   - ritterstadt
   - west-marches
-draft: true
 ---
 
 # 🎓 Phin Phicer Frice
@@ -50,12 +49,6 @@ draft: true
 *Criminal / Spy — Phin comes off the Rhennee barges, raised among the river-folk whose loyalties run to family and current rather than to any landed lord. He learned early how to read a mark, slip a lock, and disappear into a crowd. He carries the Second Sight of the wise women in his blood, and the law has carried a grudge against his people for as long as anyone can remember.*
 
 *No backstory has been written yet. What brought Phin to Greyhawk University? What is he really after in the Sepia Uplands? Fill this in after your first session.*
-
-### Personality
-- **Personality Trait:** *(To be filled by player)*
-- **Ideal:** *(To be filled by player)*
-- **Bond:** *(To be filled by player)*
-- **Flaw:** *(To be filled by player)*
 
 ### Research Focus
 *To be determined — what question or goal drives his academic work at Greyhawk University?*
