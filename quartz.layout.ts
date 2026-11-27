@@ -13,6 +13,35 @@ export const sharedPageComponents: SharedLayout = {
   }),
 }
 
+// Sidebar order: top-level sections in this order, then everything else A to Z.
+// (Must stay self-contained: Quartz serialises this function for the browser.)
+const explorer = () =>
+  Component.Explorer({
+    sortFn: (a, b) => {
+      const order = [
+        "start-here",
+        "herald",
+        "expeditions",
+        "students",
+        "gazetteer",
+        "maps",
+        "people",
+        "factions",
+        "library",
+      ]
+      // No helper functions in here: esbuild would wrap them in __name(), which breaks in the browser.
+      const ia = order.indexOf(a.slugSegment)
+      const ib = order.indexOf(b.slugSegment)
+      const r = (ia === -1 ? order.length : ia) - (ib === -1 ? order.length : ib)
+      if (r !== 0) return r
+      if (a.isFolder !== b.isFolder) return a.isFolder ? -1 : 1
+      return a.displayName.localeCompare(b.displayName, undefined, {
+        numeric: true,
+        sensitivity: "base",
+      })
+    },
+  })
+
 // components for pages that display a single page (e.g. a single note)
 export const defaultContentPageLayout: PageLayout = {
   beforeBody: [
@@ -38,7 +67,7 @@ export const defaultContentPageLayout: PageLayout = {
         { Component: Component.ReaderMode() },
       ],
     }),
-    Component.Explorer(),
+    explorer(),
   ],
   right: [
     Component.Graph(),
@@ -63,7 +92,7 @@ export const defaultListPageLayout: PageLayout = {
         { Component: Component.Darkmode() },
       ],
     }),
-    Component.Explorer(),
+    explorer(),
   ],
   right: [],
 }

@@ -1,6 +1,9 @@
 ---
 title: Student Name
 tags: [student]
+player: 
+status: enrolled
+college:
 ---
 
 > [!infobox] Student Name

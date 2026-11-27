@@ -1,7 +1,9 @@
 ---
 title: Event Headline
-date: 2026-01-01
+date: {{date}}
 tags: [herald]
+region: 
+session:
 ---
 
 *Reported by the Campus Herald.*

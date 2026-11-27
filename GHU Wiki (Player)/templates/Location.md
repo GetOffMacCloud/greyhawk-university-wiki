@@ -1,6 +1,7 @@
 ---
 title: Location Name
 tags: [location]
+region:
 ---
 
 > [!infobox] Location Name
@@ -10,6 +11,7 @@ tags: [location]
 > | **Type** | |
 > | **Region** | |
 > | **Notable folk** | |
+> | **First visited** | |
 
 ## Overview
 

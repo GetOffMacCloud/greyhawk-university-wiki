@@ -1,5 +1,10 @@
 ---
-title: Faculty & Notable Folk
+title: Faculty & Folk
 ---
 
-Professors, staff and townsfolk the students have met. Copy `templates/NPC.md` to add one.
+*The professors, staff and townsfolk the students have met.*
+
+- [[people/faculty/index|Faculty & Staff]]
+- [[people/townsfolk/index|Townsfolk]]
+
+Copy `templates/NPC.md` to add someone.

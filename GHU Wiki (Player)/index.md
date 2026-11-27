@@ -9,15 +9,23 @@ title: Greyhawk University
 > → [[herald/index|Read the Herald]]
 
 > [!ledger] 🎓 The Student Ledger
-> Every student's year, house, deeds and standing.
+> Every student's year, college, deeds and standing.
 > → [[students/index|Open the Ledger]]
 
 > [!gazetteer] 🗺️ The Gazetteer
 > - [[gazetteer/greyhawk-university/index|Greyhawk University]]: halls, colleges and grounds
 > - [[gazetteer/ritterstadt/index|Ritterstadt]]: streets, taverns and shops
 > - [[gazetteer/flanaess/index|The Flanaess]]: the wider world of Greyhawk
+> - [[maps/index|Maps]]: what the students have charted so far
 
-**New to the table?** Start with [[how-to-play|How to Join a Session]].
+## Latest from the Marches
+- [[expeditions/session-reports/index|Session Reports]]: what each expedition found
+- [[expeditions/rumor-board|The Rumour Board]]: leads waiting for a party brave enough to chase them
+
+## Around the University
+- [[people/index|Faculty & Folk]] · [[factions/index|Colleges & Factions]] · [[library/index|The Library]]
+
+**New to the table?** Start with [[start-here/index|Start Here]].
 
 ---
 
