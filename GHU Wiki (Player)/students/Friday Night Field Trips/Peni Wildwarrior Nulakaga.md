@@ -9,12 +9,14 @@ year: Sophomore
 titles: []
 organization: None
 status: Enrolled
+party: Friday Night Field Trips
 adventures: []
 credits_earned: 0
 credits_spent: 0
 enrolled_date: 0576-MM-DD
 tags:
   - student
+  - friday-night-field-trips
   - ritterstadt
   - west-marches
 ---
