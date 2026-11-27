@@ -10,13 +10,17 @@ titles: []
 organization: None
 status: Enrolled
 party: Friday Night Field Trips
-adventures: []
-credits_earned: 0
+sessions:
+  - 2026-11-06
+adventures:
+  - SP-SQ-01
+credits_earned: 50
 credits_spent: 0
 enrolled_date: 0576-MM-DD
 tags:
   - student
   - friday-night-field-trips
+  - one-shot
 ---
 
 # 🎓 Morana Thrym
@@ -252,8 +256,8 @@ tags:
 | Date (CY) | Arc # | Quest Name | Credits Earned | Bonus | Credits Spent | Reason Spent | Balance |
 | :--- | :--- | :--- | ---: | ---: | ---: | :--- | ---: |
 | | | *Enrollment* | — | — | — | — | 0 |
-| | | | | | | | |
-| | | **TOTAL** | | | | | |
+| Brewfest 576 | SP-SQ-01 | SP-SQ-01 The Gaoler's Link | 40 | 10 | — | — | 50 |
+| | | **TOTAL** | **50** | | **0** | | **50** |
 
 > [!tip] Credit Costs
 > - **Level 4 (Sophomore):** 1,000 cr total
@@ -268,15 +272,15 @@ tags:
 
 ## 📜 Expedition Log
 
-### Arc ____ — ____
-- **Date:** 
-- **Role in Party:** 
-- **Key Moment:** 
-- **Credits Earned:** 
-- **Major Bonus Applied?** Y / N
-- **Field Report Submitted?** Y / N — *Bonus earned:* | *Counts toward Boon 2?* Y / N
+### SP-SQ-01 — The Gaoler's Link
+- **Date:** 2026-11-06 (Brewfest 1–5, 576 CY)
+- **Role in Party:** Druid; the Archive team
+- **Key Moment:** Studied in the Archive with Sybil and Zephyrine while the party cased the job
+- **Credits Earned:** 50 (40 base, Ending A; +5 Brandmeier freed; +5 clean job)
+- **Major Bonus Applied?** N
+- **Field Report Submitted?** N
 - **Loadout Items Used:** 
-- **Items Lost / Penalties:** 
+- **Items Lost / Penalties:** None
 
 ---
 
