@@ -13,6 +13,7 @@ title: Greyhawk University
 
 > [!herald] 📜 The Campus Herald
 > News from campus, Ritterstadt and the wider Flanaess.
+> - [[herald/Ritterstadt Free Press 23 Patchwall 576|The Ritterstadt Free Press, 23 Patchwall]]
 > - [[herald/Ritterstadt Free Press November 27, 2026|The Ritterstadt Free Press, 16 Patchwall]]
 > - [[herald/Ritterstadt Free Press June 17, 2026|The Ritterstadt Free Press, 17 June]]
 > - [[herald/Ritterstadt Free Press June 11, 2026|The Ritterstadt Free Press, 11 June]]
