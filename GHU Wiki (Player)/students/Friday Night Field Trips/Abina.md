@@ -26,6 +26,7 @@ tags:
 **Class:** Rogue 3 (Iron League Scout) | **Level:** 3
 
 > [!infobox]
+> ![[Abina - Portrait.webp|250]]
 > ###### Academic Record
 > | Field | Value |
 > | :--- | :--- |

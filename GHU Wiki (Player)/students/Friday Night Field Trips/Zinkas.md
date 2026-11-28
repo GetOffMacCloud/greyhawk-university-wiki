@@ -23,6 +23,7 @@ tags:
 **Class:** Fighter 3 (Battle Master) | **Level:** 3
 
 > [!infobox]
+> ![[Zinkas - Portrait.webp|250]]
 > ###### Academic Record
 > | Field | Value |
 > | :--- | :--- |

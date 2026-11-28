@@ -28,6 +28,7 @@ tags:
 **Class:** Cleric 3 (Light Domain) | **Level:** 3
 
 > [!infobox]
+> ![[Uriel Sonnenbrecht - Portrait.webp|250]]
 > ###### Academic Record
 > | Field | Value |
 > | :--- | :--- |

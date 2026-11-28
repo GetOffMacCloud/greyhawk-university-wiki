@@ -26,6 +26,7 @@ tags:
 **Class:** Barbarian 3 (Path of the Battlerager) | **Level:** 3
 
 > [!infobox]
+> ![[Draven Ironskull - Portrait.webp|250]]
 > ###### Academic Record
 > | Field | Value |
 > | :--- | :--- |

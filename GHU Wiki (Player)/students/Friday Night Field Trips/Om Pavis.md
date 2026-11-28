@@ -23,6 +23,7 @@ tags:
 **Class:** Wizard 3 (War Magic) | **Level:** 3
 
 > [!infobox]
+> ![[Om Pavis - Portrait.webp|250]]
 > ###### Academic Record
 > | Field | Value |
 > | :--- | :--- |

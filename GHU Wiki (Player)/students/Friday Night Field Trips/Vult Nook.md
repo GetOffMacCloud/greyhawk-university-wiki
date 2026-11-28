@@ -25,6 +25,7 @@ tags:
 **Class:** Paladin 3 (Oath of Devotion) | **Level:** 3
 
 > [!infobox]
+> ![[Vult Nook - Portrait.webp|250]]
 > ###### Academic Record
 > | Field | Value |
 > | :--- | :--- |

@@ -25,6 +25,7 @@ tags:
 **Class:** Fighter 4 (Blade Breaker) | **Level:** 4
 
 > [!infobox]
+> ![[Peni Wildwarrior Nulakaga - Portrait.webp|250]]
 > ###### Academic Record
 > | Field | Value |
 > | :--- | :--- |

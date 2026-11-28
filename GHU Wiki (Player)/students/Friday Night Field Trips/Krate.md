@@ -26,6 +26,7 @@ tags:
 **Class:** Barbarian 3 (Path of the Berserker) | **Level:** 3
 
 > [!infobox]
+> ![[Krate - Portrait.webp|250]]
 > ###### Academic Record
 > | Field | Value |
 > | :--- | :--- |

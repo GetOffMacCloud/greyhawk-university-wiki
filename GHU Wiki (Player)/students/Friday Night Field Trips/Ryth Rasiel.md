@@ -25,6 +25,7 @@ tags:
 **Class:** Monk 3 (Way of the Astral Self) | **Level:** 3
 
 > [!infobox]
+> ![[Ryth Rasiel - Portrait.webp|250]]
 > ###### Academic Record
 > | Field | Value |
 > | :--- | :--- |

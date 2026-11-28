@@ -23,6 +23,7 @@ tags:
 **Class:** Paladin 3 (Oath of Wee Jas) | **Level:** 3
 
 > [!infobox]
+> ![[Kavak Cinderstep - Portrait.webp|250]]
 > ###### Academic Record
 > | Field | Value |
 > | :--- | :--- |

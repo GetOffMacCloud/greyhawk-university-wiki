@@ -25,6 +25,7 @@ tags:
 **Class:** Sorcerer 3 (Wild Magic) | **Level:** 3
 
 > [!infobox]
+> ![[Celestros - Portrait.webp|250]]
 > ###### Academic Record
 > | Field | Value |
 > | :--- | :--- |

@@ -25,6 +25,7 @@ tags:
 **Class:** Cleric (Life Domain) | **Level:** 3 
 
 > [!infobox]
+> ![[Monscor Dumathier - Portrait.webp|250]]
 > ###### Academic Record
 > | Field | Value |
 > | :--- | :--- |

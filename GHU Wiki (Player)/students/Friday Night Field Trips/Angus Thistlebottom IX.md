@@ -26,6 +26,7 @@ tags:
 **Class:** Ranger 3 (Hunter) | **Level:** 3
 
 > [!infobox]
+> ![[Angus Thistlebottom IX - Portrait.jpg|250]]
 > ###### Academic Record
 > | Field | Value |
 > | :--- | :--- |

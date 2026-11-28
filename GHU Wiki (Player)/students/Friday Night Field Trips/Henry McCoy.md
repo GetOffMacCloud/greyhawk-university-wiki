@@ -27,6 +27,7 @@ tags:
 **Class:** Druid 3 (Tiger Nomad Hunt Master) | **Level:** 3
 
 > [!infobox]
+> ![[Henry McCoy - Portrait.webp|250]]
 > ###### Academic Record
 > | Field | Value |
 > | :--- | :--- |

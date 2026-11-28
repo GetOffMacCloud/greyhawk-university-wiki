@@ -27,6 +27,7 @@ tags:
 **Class:** Druid 3 (Circle of the Land) | **Level:** 3
 
 > [!infobox]
+> ![[Morana - Portrait.webp|250]]
 > ###### Academic Record
 > | Field | Value |
 > | :--- | :--- |

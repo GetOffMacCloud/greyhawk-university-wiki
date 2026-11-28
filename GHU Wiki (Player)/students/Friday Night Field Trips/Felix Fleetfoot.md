@@ -27,6 +27,7 @@ tags:
 **Class:** Rogue 3 (Thief) | **Level:** 3
 
 > [!infobox]
+> ![[Felix Fleetfoot - Portrait.webp|250]]
 > ###### Academic Record
 > | Field | Value |
 > | :--- | :--- |

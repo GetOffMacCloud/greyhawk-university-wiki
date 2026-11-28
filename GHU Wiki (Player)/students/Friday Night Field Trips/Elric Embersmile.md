@@ -28,6 +28,7 @@ tags:
 **Class:** Fighter 3 (Battle Master) | **Level:** 3
 
 > [!infobox]
+> ![[Elric Embersmile - Portrait.jpg|250]]
 > ###### Academic Record
 > | Field | Value |
 > | :--- | :--- |
