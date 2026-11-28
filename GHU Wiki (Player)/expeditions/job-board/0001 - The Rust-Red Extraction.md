@@ -62,10 +62,10 @@ session_nums: []
 ---
 
 ## 🛡️ The Research Party
-| Player | Character | Class/Level | Dept. Standing |
-| :----- | :-------- | :---------- | :------------- |
-| Sparkles_Mandy | Bethany McCockin-Simmons | 3 | +10 |
-| @grim | Tob | | +10 |
+| Character | Class/Level | Dept. Standing |
+| :-------- | :---------- | :------------- |
+| Bethany McCockin-Simmons | 3 | +10 |
+| Tob | | +10 |
 
 ---
 
