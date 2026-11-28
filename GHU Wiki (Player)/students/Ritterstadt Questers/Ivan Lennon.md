@@ -209,10 +209,8 @@ Male · 23 · 6′0″ · 185 lb · sandy brown hair · deep blue eyes · skin w
 
 | Date (CY) | Arc # | Quest Name | Credits Earned | Bonus | Credits Spent | Reason Spent | Balance |
 | :--- | :--- | :--- | ---: | ---: | ---: | :--- | ---: |
-| Sunsebb 576 | | *Enrollment* | — | — | — | — | 0 |
-| Sunsebb 576 | 0009 | The Mourners Who Didn't Return *(joined at the Beholder Room)* | | | | | |
-| | 0010 | The Hall of the Honored | | | | | |
-| | | **TOTAL** | | | | | |
+| | | *Enrollment* | — | — | — | — | 0 |
+| | | **TOTAL** | **0** | | **0** | | **0** |
 
 > [!tip] Credit Costs
 > - **Level 4 (Sophomore):** 1,000 cr total

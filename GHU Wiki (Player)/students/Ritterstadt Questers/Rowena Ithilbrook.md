@@ -290,8 +290,13 @@ tags:
 | Date (CY) | Arc # | Quest Name | Credits Earned | Bonus | Credits Spent | Reason Spent | Balance |
 | :--- | :--- | :--- | ---: | ---: | ---: | :--- | ---: |
 | | | *Enrollment* | — | — | — | — | 0 |
-| | | | | | | | |
-| | | **TOTAL** | | | | | |
+| Planting 576 | GHU-0001 | GHU-0001 The Rust-Red Extraction | 600 | — | — | — | 600 |
+| Harvester 576 | GHU-0002 | GHU-0002 Cold Trails | 90 | — | — | — | 690 |
+| Harvester 576 | GHU-0003 | GHU-0003 The Anchor Stone (Discovery Credits 600 + capstone 500) | 1,100 | — | — | — | 1,790 |
+| Harvester 576 |  | *Tuition* | — | — | 1,000 | Level 4 (Sophomore), Freshman Capstone passed at the 0003 debrief | 790 |
+| Harvester 576 | GHU-0004 | GHU-0004 The Man from the South (75% partial) | 450 | — | — | — | 1,240 |
+| Harvester 576 | | *Registrar's adjustment to the balance on file* | −540 | — | — | — | 700 |
+| | | **TOTAL** | **1,700** | | **1,000** | | **700** |
 
 > [!tip] Credit Costs
 > - **Level 4 (Sophomore):** 1,000 cr total

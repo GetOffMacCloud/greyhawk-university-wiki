@@ -260,8 +260,12 @@ tags:
 | Date (CY) | Arc # | Quest Name | Credits Earned | Bonus | Credits Spent | Reason Spent | Balance |
 | :--- | :--- | :--- | ---: | ---: | ---: | :--- | ---: |
 | | | *Enrollment* | — | — | — | — | 0 |
-| | | | | | | | |
-| | | **TOTAL** | | | | | |
+| Harvester 576 | GHU-0002 | GHU-0002 Cold Trails | 90 | — | — | — | 90 |
+| Harvester 576 | GHU-0003 | GHU-0003 The Anchor Stone (Discovery Credits 600 + capstone 500) | 1,100 | — | — | — | 1,190 |
+| Harvester 576 | GHU-0004 | GHU-0004 The Man from the South (75% partial) | 450 | — | — | — | 1,640 |
+| Harvester 576 |  | *Tuition* | — | — | 1,000 | Level 4 (Sophomore), at the 0004 debrief | 640 |
+| Harvester 576 | | *Registrar's adjustment to the balance on file* | −465 | — | — | — | 175 |
+| | | **TOTAL** | **1,175** | | **1,000** | | **175** |
 
 > [!tip] Credit Costs
 > - **Level 4 (Sophomore):** 1,000 cr total

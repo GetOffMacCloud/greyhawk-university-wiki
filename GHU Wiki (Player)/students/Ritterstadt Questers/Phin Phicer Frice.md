@@ -260,8 +260,9 @@ tags:
 | Date (CY) | Arc # | Quest Name | Credits Earned | Bonus | Credits Spent | Reason Spent | Balance |
 | :--- | :--- | :--- | ---: | ---: | ---: | :--- | ---: |
 | | | *Enrollment* | — | — | — | — | 0 |
-| | | | | | | | |
-| | | **TOTAL** | | | | | |
+| Harvester 576 | GHU-0002 | GHU-0002 Cold Trails | 90 | — | — | — | 90 |
+| Harvester 576 | | *Registrar's adjustment to the balance on file* | 893 | — | — | — | 983 |
+| | | **TOTAL** | **983** | | **0** | | **983** |
 
 > [!tip] Credit Costs
 > - **Level 4 (Sophomore):** 1,000 cr total
