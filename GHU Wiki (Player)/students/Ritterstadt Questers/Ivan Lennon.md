@@ -161,21 +161,29 @@ Male · 23 · 6′0″ · 185 lb · sandy brown hair · deep blue eyes · skin w
 | :--- | :--- | :---: | :--- | :--- |
 | Eldritch Blast | 120 ft. | +6 | 1d10+4 force | Push 10 ft. (Repelling) |
 | Scorching Ray | 120 ft. | +6 ×3 | 2d6 fire each | Pact slot |
+| Dagger | 5 ft. / 20/60 | +6 | 1d4+4 piercing | Finesse, Light, Thrown |
+| Crossbow, Light | 80/320 ft. | +6 | 1d8+4 piercing | Ammunition, Loading, Two-Handed |
 | Unarmed Strike | 5 ft. | +2 | 1 bludgeoning | |
 
 ### Equipment
 
-**Carried (19 lb.):**
+**Carried** *(from D&D Beyond, 2026-11-28)*:
 
 | Item | Notes |
 | :--- | :--- |
 | Studded Leather *(equipped)* | AC 12 + DEX |
 | Shield | **Not proficient**: don't equip (see flags) |
+| Dagger × 2 | Finesse, Light, Thrown (20/60) |
+| Crossbow, Light + 20 bolts | Ammunition, Loading, Two-Handed |
+| Arcane Focus | Spellcasting focus |
+| Clothes, Fine · Signet Ring · Pouch | Noble background kit |
+| Backpack, Sack, Crowbar, Hammer, Piton × 10, Rations × 10, Rope (50 ft.), Tinderbox, Torch × 10, Waterskin | Pack |
+| Ball Bearings (bag of 1,000), Caltrops (bag of 20), Acid (vial) | |
 
-**Currency:** 0 *(narrative only; no GP economy in the campaign)*
+**Currency:** 25 gp *(narrative only; no GP economy in the campaign)*
 
-> [!warning] Kit gap: issue before play
-> He has **no spellcasting focus or component pouch** and no weapon. *Hex*, *protection from evil and good* and *find familiar* all have material components, and the last two are consumed (PfE&G: holy water or powdered silver and iron; FF: 10 gp of charcoal, incense and herbs). Suggest the standard warlock kit as his University issue: **arcane focus** (a Traft-made rod or a signet, for a noble), **light crossbow + 20 bolts**, **two daggers**, **scholar's pack**. Plus the Noble background kit: fine clothes, **signet ring**, scroll of pedigree. *It's Sunsebb:* add **cold-weather clothing** (a fur cloak) if he'll go up to the surface.
+> [!success] Kit gap closed
+> The sheet now carries an **arcane focus**, two daggers and a light crossbow, so his material components and a fallback weapon are covered. *Find familiar*'s 10 gp of charcoal, incense and herbs is still consumed each casting. *It's Sunsebb:* add **cold-weather clothing** (a fur cloak) if he'll go up to the surface.
 
 ---
 

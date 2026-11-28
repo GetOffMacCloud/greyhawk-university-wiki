@@ -60,15 +60,15 @@ tags:
 
 | STR | DEX | CON | INT | WIS | CHA |
 | :---: | :---: | :---: | :---: | :---: | :---: |
-| 18 (+4) | 14 (+2) | 18 (+4) | 12 (+1) | 12 (+1) | 12 (+1) |
+| 18 (+4) | 14 (+2) | 20 (+5) | 12 (+1) | 12 (+1) | 12 (+1) |
 
-*Mountain Dwarf species modifiers applied: +2 CON, +1 STR, −1 CHA.*
+*Mountain Dwarf species modifiers applied: +2 CON, +1 STR, −1 CHA. Level 4 Ability Score Improvement: +2 CON.*
 
 ### Combat Statistics
 
 | HP | AC (Equipped) | Initiative | Speed | Proficiency Bonus |
 | :---: | :---: | :---: | :---: | :---: |
-| 44 | 19 (Chain Mail 16 + Shield +2 + Defense +1) | +2 | 25 ft. | +2 |
+| 48 | 19 (Chain Mail 16 + Shield +2 + Defense +1) | +2 | 25 ft. | +2 |
 
 *Stealth checks made at disadvantage while wearing Chain Mail.*
 
@@ -76,7 +76,7 @@ tags:
 
 | STR ✓ | DEX | CON ✓ | INT | WIS | CHA |
 | :---: | :---: | :---: | :---: | :---: | :---: |
-| +6 | +2 | +6 | +1 | +1 | +1 |
+| +6 | +2 | +7 | +1 | +1 | +1 |
 
 ### Senses
 
@@ -116,7 +116,7 @@ tags:
 **Armor:** Heavy, Medium, Light, Shields
 **Weapons:** Martial Weapons, Simple Weapons
 **Tools:** Smith's Tools
-**Languages:** Dwarvish
+**Languages:** Common, Dwarvish
 
 ### Class Features
 

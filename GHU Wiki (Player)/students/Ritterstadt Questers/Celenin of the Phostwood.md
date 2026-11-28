@@ -65,15 +65,15 @@ During his first adventure, Celenin found a Dire Wolf pup. He has tamed it and i
 
 | STR | DEX | CON | INT | WIS | CHA |
 | :---: | :---: | :---: | :---: | :---: | :---: |
-| 18 (+4) | 14 (+2) | 18 (+4) | 10 (+0) | 10 (+0) | 16 (+3) |
+| 18 (+4) | 14 (+2) | 20 (+5) | 10 (+0) | 11 (+0) | 17 (+3) |
 
-*Half-Elf species modifiers applied: +1 CHA, +1 to two other ability scores of choice.*
+*Half-Elf species modifiers applied: +1 CHA, +1 to two other ability scores of choice. Level 4 Ability Score Improvement: +2 CON.*
 
 ### Combat Statistics
 
 | HP | AC (Equipped) | Initiative | Speed | Proficiency Bonus |
 | :---: | :---: | :---: | :---: | :---: |
-| 44 | 18 (Chain Mail 16 + Shield +2) | +2 | 30 ft. | +2 |
+| 48 | 18 (Chain Mail 16 + Shield +2) | +2 | 30 ft. | +2 |
 
 *Stealth checks made at disadvantage while wearing Chain Mail.*
 
@@ -81,7 +81,7 @@ During his first adventure, Celenin found a Dire Wolf pup. He has tamed it and i
 
 | STR | DEX | CON | INT | WIS | CHA |
 | :---: | :---: | :---: | :---: | :---: | :---: |
-| +6 ✓ | +2 | +6 ✓ | +0 | +0 | +3 |
+| +6 ✓ | +2 | +7 ✓ | +0 | +0 | +3 |
 
 ### Senses
 

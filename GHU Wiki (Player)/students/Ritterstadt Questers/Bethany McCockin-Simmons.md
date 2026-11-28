@@ -62,7 +62,7 @@ tags:
 
 | STR | DEX | CON | INT | WIS | CHA |
 | :---: | :---: | :---: | :---: | :---: | :---: |
-| 18 (+4) | 14 (+2) | 18 (+4) | 12 (+1) | 10 (+0) | 14 (+2) |
+| 20 (+5) | 14 (+2) | 18 (+4) | 12 (+1) | 10 (+0) | 14 (+2) |
 
 *Oeridian species modifiers applied: +2 CON, +1 STR, −1 CHA.*
 
@@ -70,7 +70,7 @@ tags:
 
 | HP | AC (Equipped) | Initiative | Speed | Proficiency Bonus |
 | :---: | :---: | :---: | :---: | :---: |
-| 34 | 17 (Chain Mail 16 + Defense +1) | +2 | 30 ft. | +2 |
+| 44 | 17 (Chain Mail 16 + Defense +1) | +4 (DEX +2, The Oeridian Key +2) | 30 ft. | +2 |
 
 *AC with shield: 19. AC unequipped: 12.*
 
@@ -78,7 +78,7 @@ tags:
 
 | STR | DEX | CON | INT | WIS ✓ | CHA ✓ |
 | :---: | :---: | :---: | :---: | :---: | :---: |
-| +4 | +2 | +4 | +1 | +2 | +4 |
+| +5 | +2 | +4 | +1 | +2 | +4 |
 
 ### Senses
 
@@ -93,7 +93,7 @@ tags:
 | Acrobatics | DEX | +2 | |
 | Animal Handling | WIS | +2 | ✓ |
 | Arcana | INT | +1 | |
-| Athletics | STR | +6 | ✓ |
+| Athletics | STR | +7 | ✓ |
 | Deception | CHA | +4 | ✓ |
 | History | INT | +1 | |
 | Insight | WIS | +2 | ✓ |
@@ -114,7 +114,7 @@ tags:
 **Armor:** Heavy, Medium, Light, Shields
 **Weapons:** Martial Weapons, Simple Weapons
 **Tools:** Brewer's Supplies, Vehicles (Land)
-**Languages:** None listed
+**Languages:** Common, Old Oeridian
 
 ### Class Features
 
@@ -148,7 +148,7 @@ tags:
 > This oath does not break through cruelty. It breaks through **Never Build the Cage** — holding a person you could release. **0004 hands her manacles, capturable prisoners, and a vote on what happens to Kurt Beckenhaus.** Every one of those is an oath question. Warn in fiction, never as a gotcha.
 
 > [!question] Level 4 — Ability Score Improvement
-> Level 4 grants an **ASI or a feat**. The scores above may or may not already include it. Confirm with Sparkles_Mandy and note the choice here: ____________
+> Level 4 grants an **ASI or a feat**. Per D&D Beyond (checked 2026-11-28): **+2 STR** (18 → 20). The scores above include it.
 
 ### Species Traits (Oeridian)
 

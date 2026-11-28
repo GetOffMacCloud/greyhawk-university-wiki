@@ -62,27 +62,27 @@ tags:
 
 | STR | DEX | CON | INT | WIS | CHA |
 | :---: | :---: | :---: | :---: | :---: | :---: |
-| 11 (+0) | 16 (+3) | 16 (+3) | 16 (+3) | 16 (+3) | 12 (+1) |
+| 11 (+0) | 16 (+3) | 16 (+3) | 16 (+3) | 18 (+4) | 12 (+1) |
 
-*Valley Elf species modifiers applied: +2 DEX, +1 INT, −1 STR.*
+*Valley Elf species modifiers applied: +2 DEX, +1 INT, −1 STR. Level 4 Ability Score Improvement: +2 WIS.*
 
 ### Combat Statistics
 
 | HP | AC (Equipped) | Initiative | Speed | Proficiency Bonus |
 | :---: | :---: | :---: | :---: | :---: |
-| 27 | 16 (Leather 11 + DEX +3 + Shield +2) | +3 | 30 ft. | +2 |
+| 35 | 16 (Leather 11 + DEX +3 + Shield +2) | +3 | 30 ft. | +2 |
 
 ### Saving Throws
 
 | STR | DEX | CON | INT | WIS ✓ | CHA ✓ |
 | :---: | :---: | :---: | :---: | :---: | :---: |
-| +0 | +3 | +3 | +3 | +5 | +3 |
+| +0 | +3 | +3 | +3 | +6 | +3 |
 
 ### Senses
 
 | Passive Perception | Passive Investigation | Passive Insight |
 | :---: | :---: | :---: |
-| 15 | 13 | 15 |
+| 16 | 13 | 16 |
 
 *Darkvision 60 ft.*
 
@@ -91,23 +91,23 @@ tags:
 | Skill | Mod | Bonus | Proficient? |
 | :--- | :--- | :---: | :---: |
 | Acrobatics | DEX | +3 | |
-| Animal Handling | WIS | +3 | |
+| Animal Handling | WIS | +4 | |
 | Arcana | INT | +3 | |
 | Athletics | STR | +0 | |
 | Deception | CHA | +1 | |
 | History | INT | +5 | ✓ |
-| Insight | WIS | +5 | ✓ |
+| Insight | WIS | +6 | ✓ |
 | Intimidation | CHA | +1 | |
 | Investigation | INT | +3 | |
-| Medicine | WIS | +5 | ✓ |
+| Medicine | WIS | +6 | ✓ |
 | Nature | INT | +5 | ✓ |
-| Perception | WIS | +5 | ✓ |
+| Perception | WIS | +6 | ✓ |
 | Performance | CHA | +1 | |
 | Persuasion | CHA | +1 | |
 | Religion | INT | +5 | ✓ |
 | Sleight of Hand | DEX | +3 | |
 | Stealth | DEX | +3 | |
-| Survival | WIS | +3 | |
+| Survival | WIS | +4 | |
 
 *Nature proficiency from **Acolyte of Nature** (Nature Domain 1st-level feature).*
 *Perception proficiency from **Valley Elf Keen Senses**.*
@@ -121,16 +121,19 @@ tags:
 
 ### Spellcasting
 
-**Spellcasting Ability:** Wisdom | **Spell Save DC:** 13 | **Spell Attack:** +5
+**Spellcasting Ability:** Wisdom | **Spell Save DC:** 14 | **Spell Attack:** +6
 
 | Slot Level | Slots |
 | :--- | :--- |
 | 1st | ◻◻◻◻ |
-| 2nd | ◻◻ |
+| 2nd | ◻◻◻ |
 
 #### Cantrips (Known)
 - Frostbite *(Acolyte of Nature — Druid cantrip pick)*
-- *(2 additional Cleric cantrips — confirm with player)*
+- Guidance
+- Light
+- Sacred Flame
+- Spare the Dying
 
 #### Domain Spells (Always Prepared — Nature Domain)
 | Level | Spells |
@@ -138,25 +141,26 @@ tags:
 | 1st | Animal Friendship, Speak with Animals |
 | 2nd | Barkskin, Spike Growth |
 
-#### Prepared Spells *(WIS mod + Cleric level = **7 spells** at Level 4 — **was 6, a Level 3 value**; one more to choose)*
-*(Confirm full list with player — representative selections below)*
+#### Prepared Spells *(WIS mod + Cleric level = **8 spells** at Level 4; list from D&D Beyond, 2026-11-28)*
 - Bless
 - Cure Wounds
+- Guiding Bolt
 - Healing Word
-- Inflict Wounds
+- Prayer of Healing
 - Shield of Faith
+- Lesser Restoration
 - Spiritual Weapon
 
 > [!question] Level 4 — Ability Score Improvement
-> Level 4 grants an **ASI or a feat**. The scores above may or may not already include it. Confirm with SexxySlothh and note the choice here: ____________
+> Level 4 grants an **ASI or a feat**. Per D&D Beyond (checked 2026-11-28): **+2 WIS** (16 → 18). The scores above include it.
 
 ### Class Features
 
 **Spellcasting** — WIS-based. Prepare WIS mod + Cleric level spells per long rest.
 
 **Channel Divinity** *(1 use / short or long rest)*
-- **Turn Undead** — Action. Undead within 30 ft. make WIS save (DC 13) or are Turned for 1 minute.
-- **Charm Animals and Plants** *(Nature Domain)* — Action. Beasts and plant creatures within 30 ft. make WIS save (DC 13) or are Charmed for 1 minute or until damaged.
+- **Turn Undead** — Action. Undead within 30 ft. make WIS save (DC 14) or are Turned for 1 minute.
+- **Charm Animals and Plants** *(Nature Domain)* — Action. Beasts and plant creatures within 30 ft. make WIS save (DC 14) or are Charmed for 1 minute or until damaged.
 
 **Nature Domain Features:**
 - **Acolyte of Nature** *(1st)* — Learn one druid cantrip; gain proficiency in Animal Handling, Nature, or Survival *(Rowena chose Nature)*.
