@@ -14,7 +14,7 @@ sessions:
   - 2026-11-20
 adventures:
   - SP-GA05
-credits_earned: 225
+credits_earned: 240
 credits_spent: 0
 enrolled_date: 0576-MM-DD
 tags:
@@ -26,6 +26,7 @@ tags:
 **Class:** Barbarian 3 (Path of the Battlerager) | **Level:** 3
 
 > [!infobox]
+> ![[Draven Ironskull - Portrait.webp|250]]
 > ###### Academic Record
 > | Field | Value |
 > | :--- | :--- |
@@ -246,8 +247,8 @@ tags:
 | Date (CY) | Arc # | Quest Name | Credits Earned | Bonus | Credits Spent | Reason Spent | Balance |
 | :--- | :--- | :--- | ---: | ---: | ---: | :--- | ---: |
 | | | *Enrollment* | — | — | — | — | 0 |
-| Patchwall 576 | SP-GA05 | SP-GA05 The Pilgrims of the Hollow Bell (Hollen Ford and the orc camp) | 225 | — | — | — | 225 |
-| | | **TOTAL** | **225** | | **0** | | **225** |
+| Patchwall 576 | SP-GA05 | SP-GA05 The Pilgrims of the Hollow Bell (Hollen Ford and the orc camp) | 225 | 15 | — | — | 240 |
+| | | **TOTAL** | **240** | | **0** | | **240** |
 
 > [!tip] Credit Costs
 > - **Level 4 (Sophomore):** 1,000 cr total
@@ -266,7 +267,7 @@ tags:
 - **Date:** 2026-11-20 (Patchwall 576 CY)
 - **Role in Party:** 
 - **Key Moment:** Beat Grukka One-Tusk in single combat and won his band
-- **Credits Earned:** 225 (75% partial credit: Hollen Ford cleared and Grukka's band won, but the bell was lost)
+- **Credits Earned:** 240 (225: 75% partial credit, Hollen Ford cleared and Grukka's band won but the bell was lost; +15 roleplay beat, beat Grukka One-Tusk in single combat)
 - **Major Bonus Applied?** N
 - **Field Report Submitted?** N
 - **Loadout Items Used:** 

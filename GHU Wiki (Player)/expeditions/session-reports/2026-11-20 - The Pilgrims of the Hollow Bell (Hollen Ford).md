@@ -38,7 +38,7 @@ We didn't climb the hill. Grukka and three of his band walked back to Ritterstad
 - The orcs were paid to hold the path "until the dark of the moon, on the hill."
 
 ## Loot & Rewards
-- **Credits:** 225 each (a partial: the relay and the orcs, but not the bell).
+- **Credits:** 225 each (a partial: the relay and the orcs, but not the bell). Draven earned +15 more for the duel with Grukka.
 - **Grukka's band** owes us a favour, and they're our friends now.
 - More credit is waiting for whoever writes up the list, the orcs and the relay in a field report.
 
