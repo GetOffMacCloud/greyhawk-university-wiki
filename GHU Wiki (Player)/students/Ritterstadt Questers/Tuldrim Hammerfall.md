@@ -68,7 +68,7 @@ tags:
 
 | HP | AC (Equipped) | Initiative | Speed | Proficiency Bonus |
 | :---: | :---: | :---: | :---: | :---: |
-| 34 | 19 (Chain Mail 16 + Shield +2 + Defense +1) | +2 | 25 ft. | +2 |
+| 44 | 19 (Chain Mail 16 + Shield +2 + Defense +1) | +2 | 25 ft. | +2 |
 
 *Stealth checks made at disadvantage while wearing Chain Mail.*
 
@@ -122,7 +122,7 @@ tags:
 
 **Fighting Style: Defense** — +1 bonus to AC while wearing armor.
 
-**Second Wind** *(1 use / short or long rest)* — As a bonus action, regain 1d10 + 3 HP.
+**Second Wind** *(1 use / short or long rest)* — As a bonus action, regain 1d10 + 4 HP.
 
 **Action Surge** *(1 use / short or long rest)* — Take one additional action on your turn.
 
