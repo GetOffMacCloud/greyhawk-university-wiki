@@ -5,7 +5,7 @@ level: 4
 ancestry: Mountain Dwarf
 major: Undeclared
 minor: None
-year: Freshman
+year: Sophomore
 titles:
   - Field Certified
   - Node-Attested
@@ -31,7 +31,7 @@ tags:
 > | Field | Value |
 > | :--- | :--- |
 > | **Status** | Enrolled |
-> | **Year** | Freshman |
+> | **Year** | Sophomore |
 > | **Ancestry** | Mountain Dwarf |
 > | **Background** | Clan Crafter |
 > | **Major** | Undeclared |

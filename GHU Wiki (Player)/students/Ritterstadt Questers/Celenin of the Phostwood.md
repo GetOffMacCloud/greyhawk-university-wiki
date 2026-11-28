@@ -5,7 +5,7 @@ level: 4
 ancestry: Half-Elf
 major: Political Philosophy & Diplomacy
 minor: None
-year: Freshman
+year: Sophomore
 titles:
   - Provisional Warden
   - Node-Attested
@@ -35,7 +35,7 @@ tags:
 > | Field | Value |
 > | :--- | :--- |
 > | **Status** | Enrolled |
-> | **Year** | Freshman |
+> | **Year** | Sophomore |
 > | **Ancestry** | Half-Elf |
 > | **Background** | Courtier |
 > | **Alignment** | — |

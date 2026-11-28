@@ -5,7 +5,7 @@ level: 4
 ancestry: Deep Gnome (Svirfneblin)
 major: Undeclared
 minor: None
-year: Freshman
+year: Sophomore
 titles:
   - Provisional Warden
   - Node-Attested
@@ -31,7 +31,7 @@ tags:
 > | Field | Value |
 > | :--- | :--- |
 > | **Status** | Enrolled |
-> | **Year** | Freshman |
+> | **Year** | Sophomore |
 > | **Ancestry** | Deep Gnome (Svirfneblin) |
 > | **Background** | Outlander |
 > | **Alignment** | Chaotic Good |
