@@ -69,7 +69,7 @@ tags:
 
 | HP | AC | Initiative | Speed | Proficiency Bonus |
 | :---: | :---: | :---: | :---: | :---: |
-| 20 | 13 | +3 | 25 ft. | +2 |
+| 26 | 13 | +3 | 25 ft. | +2 |
 
 ### Saving Throws
 
@@ -154,7 +154,7 @@ tags:
 ### Spells
 
 **Spellcasting:** INT | Spell Save DC 13 | Spell Attack +5
-**Spell Slots:** 1st Level — 4 slots | 2nd Level — 2 slots
+**Spell Slots:** 1st Level — 4 slots | 2nd Level — 3 slots
 
 | Level | Spell | Save/Atk | Time | Range | Components | Duration | Notes |
 | :---: | :--- | :---: | :---: | :---: | :---: | :---: | :--- |
