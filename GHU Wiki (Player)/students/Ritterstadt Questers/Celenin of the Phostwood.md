@@ -73,7 +73,7 @@ During his first adventure, Celenin found a Dire Wolf pup. He has tamed it and i
 
 | HP | AC (Equipped) | Initiative | Speed | Proficiency Bonus |
 | :---: | :---: | :---: | :---: | :---: |
-| 34 | 18 (Chain Mail 16 + Shield +2) | +2 | 30 ft. | +2 |
+| 44 | 18 (Chain Mail 16 + Shield +2) | +2 | 30 ft. | +2 |
 
 *Stealth checks made at disadvantage while wearing Chain Mail.*
 
@@ -127,7 +127,7 @@ During his first adventure, Celenin found a Dire Wolf pup. He has tamed it and i
 
 **Fighting Style: Dueling** — When wielding a melee weapon in one hand and no other weapons, gain +2 to damage rolls with that weapon.
 
-**Second Wind** *(1 / Short Rest)* — Bonus action to regain 1d10 + 3 HP.
+**Second Wind** *(1 / Short Rest)* — Bonus action to regain 1d10 + 4 HP.
 
 **Action Surge** *(1 / Short Rest)* — Take one additional action on your turn.
 
