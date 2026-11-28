@@ -25,7 +25,7 @@ tags:
 ---
 
 # 🎓 Celenin of the Phostwood
-**Class:** Fighter 3 (Cavalier) | **Level:** 3
+**Class:** Fighter 4 (Cavalier) | **Level:** 4
 
 > [!info] 🐺 Animal Companion
 > Celenin trained a **dire-wolf pup** (orphaned from the pack in [[expeditions/job-board/0002 - Cold Trails|0002 - Cold Trails]]). It grows with the party toward a Cavalier warmount and senses Wachturm discharge. Full sheet: Celenin's Dire Wolf — Companion.
@@ -190,7 +190,7 @@ During his first adventure, Celenin found a Dire Wolf pup. He has tamed it and i
 ## 📚 Declared Major
 
 > [!info] Major Not Yet Declared
-> Celenin is a Level 3 Freshman — undeclared is correct at this standing. Majors are declared at **Level 4 (Sophomore)** per [[start-here/Declared Majors|Declared Majors]]. To attempt the **Freshman Capstone**, file a **Declaration of Intent** naming your intended Major; passing converts it to the formal Declaration (and Boon 1) at the debrief.
+> Celenin reached **Level 4** at the 0004 debrief (a deferred Capstone pass from 0003) and has not declared a Major yet. Majors are declared at **Level 4 (Sophomore)** per [[start-here/Declared Majors|Declared Majors]].
 
 **Major:** Undeclared
 **Declared:** —
